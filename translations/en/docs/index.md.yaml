@@ -1,0 +1,94 @@
+%YAML 1.2
+%TAG !default! True
+%TAG !language! en
+---
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: ""
+  comments: []
+  literals: []
+9771c59cccbc26f4ef4ac11838269e756ee607bd8676b431ed9989f5:
+  original: Zerita is a feature-rich, expressive conlang, without any exceptions.
+  translated: ""
+  comments: []
+  literals: []
+a85d7fe4eb3bdf44583e529364e2e4c8b467d9ab26c3bba7ce20df27:
+  original: |-
+    It is a VSO language, inspired by other latin-based languages for the
+    vocabulary, the writing system, and the pronunciation. As such, it uses
+    the latin alphabet to be written, it has 1-1 correspondence between the
+    written and the spoken form, and is meant to be easy for machines to
+    understand. Expressiveness comes with a steeper learning curve, but the
+    absence of exceptions make up for it.
+  translated: ""
+  comments: []
+  literals: []
+36c6c5fe72836f2188c908ebf39ad1afa40d30311c543f2b9524d892:
+  original: Brief overview of zerita
+  translated: ""
+  comments: []
+  literals: []
+d6cf0afcb4ff4a8f63c0e86dd8a4d3c1aea2a32b2d84f48753def589:
+  original: |-
+    Zerita is meant to be a highly regular language, avoiding exceptions. It
+    also doesn't try to innovate on the phonetics, writing, and vocabulary,
+    as these are thought as the less substantial parts of a language.
+    Avoiding exceptions also makes it easy for machine parsing and science.
+  translated: ""
+  comments: []
+  literals: []
+c79951bb3cec50d09d1475eb98f5037bee02d4577ee25e64f8606a47:
+  original: |-
+    Zerita is easy, but extremely expressive. The design choice is always to
+    opt for the more expressive choice, even at the cost of making it more
+    complex, but not more complicated.
+  translated: ""
+  comments: []
+  literals: []
+0821f1a9f69a434b3ba1ebfbb1ac3d6e009554d16f41783368516a6d:
+  original: |-
+    One other choice that is present throughout zeritan rule is the information
+    flow. Zerita is a language that is meant to be literal, and express the
+    necessary information. For example, in English, a sentence like
+    "The door was red", is strongly associated with the past state. The speaker
+    most probably means that the door was read in the past, but not any more.
+    Contrary, in Zerita, "${Sive ta portis ruje}" means that the door was red,
+    but for the present state of the colour door, you cannot infer anything.
+  translated: ""
+  comments: []
+  literals:
+    - Sive ta portis ruje
+9a7c17e8bd4896dc1b5ca19c0cb833e86d037c3c1804f781b622e91f:
+  original: |-
+    Even though zerita is using latin-based languages for the vocabulary,
+    the writing system, and the pronunciation, this isn't true for the grammar
+    and the syntax. Zerita is using all natural languages and conlangs as
+    inspiration, and is trying to be innovative on these two.
+  translated: ""
+  comments: []
+  literals: []
+da55a5973f953deef9eaa5d37b25598d1b8659dc85d4e937eaaf10f2:
+  original: Features of zerita
+  translated: ""
+  comments: []
+  literals: []
+53b6e4c22f0dc746df4fede35c9ffb0be69517541d7d5c28b13631f7:
+  original: 'Zerita has some unique (or rare) features:'
+  translated: ""
+  comments: []
+  literals: []
+bf76327e4daf9a3944fe74e9600a1bc49ee514439a020ddf3c66bc28:
+  original: 4 person system
+  translated: ""
+  comments: []
+  literals: []
+f335e9b7a928b2f11b1624685533fa39676ab6eeedc665202d973ac9:
+  original: timeless tenses
+  translated: ""
+  comments: []
+  literals: []
+c779086a44814a7518b84e427e759030cad3fd24e7d2d0ec74617fff:
+  original: factual conditionals in the past
+  translated: ""
+  comments: []
+  literals: []

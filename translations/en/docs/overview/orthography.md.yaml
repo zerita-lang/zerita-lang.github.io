@@ -1,0 +1,293 @@
+%YAML 1.2
+%TAG !default! True
+%TAG !language! en
+---
+52d7af5358e06137123c0e7b02ae903f71e1d8f10240f12f74552448:
+  original: Orthography of Zerita
+  translated: ""
+  comments: []
+  literals: []
+4a38b8cf01dadb0958c35794a979f42310e73088f9e1631cc673d7ad:
+  original: |-
+    Zerita uses 22 letter to spell all words, the letters of the latin
+    alphabet, apart from ${q}, ${w}, ${x}, and ${y}. They are pronounced as follows:
+  translated: ""
+  comments: []
+  literals:
+    - q
+    - w
+    - x
+    - y
+9614f288b820179fe5c3a7f44b8aac2afc771a948edc1d8437d6c4a5:
+  original: Letter
+  translated: ""
+  comments: []
+  literals: []
+a95a8a050f423d7148c9a3f6ae639266cb4e313ecc0d1039c79e3b8e:
+  original: IPA
+  translated: ""
+  comments: []
+  literals: []
+6eca4e1fa11414575a053effa7237bbaf0348ad3ff96b7e85bf149cb:
+  original: English equivalent
+  translated: ""
+  comments: []
+  literals: []
+11435cc1878b1fd242d01ec9e35ae581b39396af81d309ca456dfb18:
+  original: h**a**t
+  translated: ""
+  comments: []
+  literals: []
+b765ba47b80420fe50c7b9ec9d63f2fe62ad4db92a81bdd45e7c5b09:
+  original: a**b**ack
+  translated: ""
+  comments: []
+  literals: []
+8979e88d2c7918e7178177861cd4e5f8c094a257703c45da3ed94def:
+  original: '**ch**air'
+  translated: ""
+  comments: []
+  literals: []
+7dd988b6a7b3d067528e0a44f214b1451d9571436eb8b716fb1bcf3d:
+  original: '**d**og'
+  translated: ""
+  comments: []
+  literals: []
+9948acb5082b0cd1a06b2736a24be87d82eb6bac71fe21cd959ef6aa:
+  original: s**e**t
+  translated: ""
+  comments: []
+  literals: []
+a581933bc533176da15af3ee3dab889d22b9ffdaf08b788dbf7e4bed:
+  original: '**f**ish'
+  translated: ""
+  comments: []
+  literals: []
+58961897c8402cede4a05a1d2cc9bdbd9d51dcecae8922556524b42e:
+  original: '**g**et'
+  translated: ""
+  comments: []
+  literals: []
+00cda39220f4eadc1a9b68089b865be1c240be5a9e6b16402d841e2f:
+  original: '**h**oney'
+  translated: ""
+  comments: []
+  literals: []
+3bc53951d1b5881bc306b5aaf303a0c42f7e67ade2bc18a238b9fa0d:
+  original: sh**i**p
+  translated: ""
+  comments: []
+  literals: []
+26ae187cf83b2b350931f196fc8af13c886cd77b944e61bdd9ea7f94:
+  original: '**j**am'
+  translated: ""
+  comments: []
+  literals: []
+c6c501d9a327e46389282fe5127c349a4eda2fceb50b82e415d291b8:
+  original: '**k**ite'
+  translated: ""
+  comments: []
+  literals: []
+dc928992a2b47d032be0ed1026f166afdc2279258ee673f47a4491a5:
+  original: '**l**amp'
+  translated: ""
+  comments: []
+  literals: []
+593c72af186f220c802604069e5c83d51605c385c2954a68ef594ac8:
+  original: '**m**an'
+  translated: ""
+  comments: []
+  literals: []
+46a5ca0530117789cba9122b3e4b9b4707905a0a82b52d0b194f37bd:
+  original: '**n**ot'
+  translated: ""
+  comments: []
+  literals: []
+a5e004cf2e1ff98da571950e73bf6e667f619c1c245834cc7c2bb5d1:
+  original: cr**o**ss
+  translated: ""
+  comments: []
+  literals: []
+4836030bec50f24cd678e5a6a91ca0f7fbd9ca919ce61e03fad6d5e9:
+  original: '**p**an'
+  translated: ""
+  comments: []
+  literals: []
+4c4c57db6adeffa32eb5e6c45e66cbc245deae9bf53c23d46108fd3e:
+  original: '**r**un'
+  translated: ""
+  comments: []
+  literals: []
+0d24cc7f9a92bda8f4cb3ed201e94b608caf921583d3b3be02c74f69:
+  original: '**s**un'
+  translated: ""
+  comments: []
+  literals: []
+06db3e88b0d0c1f44f8b110443603e7d9797d040de52fa6b0f33ba0c:
+  original: '**t**ap'
+  translated: ""
+  comments: []
+  literals: []
+762ed8a1a4c5c5ed9c40ac0162318a87fe8da3aaa5fbad76741eaeb0:
+  original: bl**u**e
+  translated: ""
+  comments: []
+  literals: []
+37d964e44ec73e611c9ee5f53c06f1eaf9286ea9c9970967c67577be:
+  original: '**v**an'
+  translated: ""
+  comments: []
+  literals: []
+f389d0d46539a1e04797223ed11bc02821f3f2350b55027bc1a94588:
+  original: '**z**oo'
+  translated: ""
+  comments: []
+  literals: []
+a145d624437e6c45072efdd57b90d578d85d8b05e02e2e34a1a5d5b5:
+  original: Pronunciation
+  translated: ""
+  comments: []
+  literals: []
+2556eb5c1e8742ac34ed1835627978605b4ce02b92037a72946983bc:
+  original: |-
+    Each letter's pronunciation is meant to be as in the IPA, and it doesn't
+        match 100% the english sounds. The English equivalent is just the closest
+        sound in English (when the word is pronounced with the received pronunciation).
+  translated: ""
+  comments: []
+  literals: []
+51d88bdff28e27f925c46d6bde907946af5c23d3136ef06faad9831f:
+  original: |-
+    A word without any accent marks will have its penultimate syllable stressed,
+    or the only syllable if the word has a single syllable. If an accent mark is present,
+    it signifies the stressed syllable. For example, "${homis}" (human or person)
+    has the "${o}" as the stressed vowel, "${ni}" (no) has the "${i}" stressed, but "${asé}"
+    (3rd person pronoun) has the "${e}" stressed.
+  translated: ""
+  comments: []
+  literals:
+    - asé
+    - e
+    - homis
+    - i
+    - ni
+    - o
+0cd1c2ab935f190ee5f8839e5235c20899e8e81c8c645885d06f7b27:
+  original: Zerita is using no capitalisation of the letters, no diphthongs, and no
+    silent letters.
+  translated: ""
+  comments: []
+  literals: []
+796ead948ed03fb2977770e62b1a1e26f754db70cd6e8d8548c21995:
+  original: 'It uses the following punctuation marks:'
+  translated: ""
+  comments: []
+  literals: []
+fb0202410145911f9796a1d99eab5a13588a22ce785ad36064941f77:
+  original: Mark
+  translated: ""
+  comments: []
+  literals: []
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: ""
+  comments: []
+  literals: []
+3066f8a7f62e4e2351115b6bdbfb9f2dab2d0c0855f2f0ebe98db3ef:
+  original: Usage
+  translated: ""
+  comments: []
+  literals: []
+a39ba35fa83103c31a0de8c65022fe4beaa746b9987584152c463c25:
+  original: Period
+  translated: ""
+  comments: []
+  literals: []
+0d1f42007e100a4d5d9b2db759b69d8477e192a2d28284c6e50e9121:
+  original: Indicates the end of a declarative sentence.
+  translated: ""
+  comments: []
+  literals: []
+66ec817a9bf39eb9d956025e7e68b86569db1f2161d2ff25497f0b6b:
+  original: Semicolon
+  translated: ""
+  comments: []
+  literals: []
+39dac21919d2136b6885fb766a30d09c3b2309086fea411d9cd69f06:
+  original: Connects closely related independent clauses or separates items in a complex
+    list.
+  translated: ""
+  comments: []
+  literals: []
+51551501395e77ffd241e36945fd3de8388953d9584d8e2b4444ba00:
+  original: Comma
+  translated: ""
+  comments: []
+  literals: []
+12625575297986816d1c6392e2ea6a9470fc490ca05ab0d9c4ffab1e:
+  original: Separates elements in a list, clauses, or phrases within a sentence.
+  translated: ""
+  comments: []
+  literals: []
+dfd362edcbc4f113c01f505b915aa5c5c7f218b1e897c96ddb175fc8:
+  original: Colon
+  translated: ""
+  comments: []
+  literals: []
+278f0e9ee5dbba2d2d2bdf15b5f771da90b4754457f86ef09a42e28f:
+  original: Introduces a list, quotation, or explanation.
+  translated: ""
+  comments: []
+  literals: []
+9381f87cd033fd7fc5f116c3cd7b305d587df54b243926a7a842813f:
+  original: Exclamation Mark
+  translated: ""
+  comments: []
+  literals: []
+0c5bf98490b71376b153d9d1d7c72ede96a167fb69a263689e2b513e:
+  original: Expresses strong emotion or a command.
+  translated: ""
+  comments: []
+  literals: []
+6c6a5e1d61bd5f668dc952d87ff2670578d5fd38944374fa0afbd3fc:
+  original: Question Mark
+  translated: ""
+  comments: []
+  literals: []
+f9ef7a548bdea02b600707523611db1715bdca854bd7eb655ba82dbb:
+  original: Indicates a question.
+  translated: ""
+  comments: []
+  literals: []
+5cc296b44fdfc12416f7c121ad984d568dc6dccc16e232e4785335d7:
+  original: Quotation Marks
+  translated: ""
+  comments: []
+  literals: []
+be05b7d4705de12918be7101d328677cfaf3480d49a65b48599e3a6c:
+  original: Encloses direct speech, quotations, or titles of works.
+  translated: ""
+  comments: []
+  literals: []
+73926e90be70b547206ce2ea1f02a408fcfbb4eb688aa7b136d256da:
+  original: Punctuation and quotes
+  translated: ""
+  comments: []
+  literals: []
+527c196241cc9f4a080c8d2896b8509c8c8d38e15d4daa3075200add:
+  original: |-
+    Punctuation marks should be placed only outside the double quotes if they both the sentence
+        inside the quotes and outside of it end at the same time.
+  translated: ""
+  comments: []
+  literals: []
+e3a37c0c08f9674648e1d3fab30ab9bf9e3da752bcbf7b080e9df919:
+  original: |-
+    Names that come from other languages keep the original spelling if they are written in the latin
+    alphabet, or they have a standard latinisation, and they written phonetically otherwise.
+    As an aid to the reader, a name that comes from another language can be transliterated in Zerita
+    inside square brackets, the first time it appears in a passage, for example ${george[jorj]}.
+  translated: ""
+  comments: []
+  literals:
+    - george[jorj]

@@ -1,0 +1,881 @@
+%YAML 1.2
+%TAG !default! True
+%TAG !language! en
+---
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: ""
+  comments: []
+  literals: []
+a2695aa3c8ba169f50a80a3b3a90ae7d9fa42dbd7244b0ec2dea6ead:
+  original: Home
+  translated: ""
+  comments: []
+  literals: []
+93de3574f73c224dc200cdd588f428e073daf1d33b8b85ca59adf9be:
+  original: Overview
+  translated: ""
+  comments: []
+  literals: []
+aeb98f29468b90b3a82f6fb1b12975d57046a8100a11d65442d7d712:
+  original: Dictionary
+  translated: ""
+  comments: []
+  literals: []
+26795d8bb4d9eb6cea67bb048a237240c74177f7a1d5f89b29d2318c:
+  original: Adjectives
+  translated: ""
+  comments: []
+  literals: []
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: ""
+  comments: []
+  literals: []
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: ""
+  comments: []
+  literals: []
+f0ce01fb457f456a9e206f64b10d5cf48f2cf8a48c6d581b6fe088ed:
+  original: Colours
+  translated: ""
+  comments: []
+  literals: []
+71827f896cde545fcce893146f1ead8eca3a78f5e963b5281cab7bc7:
+  original: Syntax
+  translated: ""
+  comments: []
+  literals: []
+01a71c19460a0748ec5fcf75a757ee9ed5d8630bda0de4e9125701cb:
+  original: Phrases
+  translated: ""
+  comments: []
+  literals: []
+4f762054a82f6fa3fe6e3af7e2ac7d40616afbe6c8e68558084c7459:
+  original: Words and lexemes
+  translated: ""
+  comments: []
+  literals: []
+1667899649ab0d5bff08ab51a932261d7376452c197f32c0fc35f844:
+  original: Orthography
+  translated: ""
+  comments: []
+  literals: []
+dc4c9ba70ef27e36fb053102778bec49611e0167dd11f4d2ad4be5d4:
+  original: Determinatives
+  translated: ""
+  comments: []
+  literals: []
+4e6639d3b183f13e497f58073256e86175673c3f0143b95f87ad8153:
+  original: Articles
+  translated: ""
+  comments: []
+  literals: []
+cf551b21b07f579b75154ce589e057fdebb1a5d3be7c12e9fad80d0c:
+  original: Demonstratives
+  translated: ""
+  comments: []
+  literals: []
+3cd841174088a6b779bcfc3ac18c8b6924b693b8642a29336627d3d8:
+  original: Possessives
+  translated: ""
+  comments: []
+  literals: []
+881e4f8a07fd342bdaa1b082d857fab22c1a8d17bab0252678fb3c4a:
+  original: Quantifiers
+  translated: ""
+  comments: []
+  literals: []
+b6d48f0d27f762c2e9ac6bf59569ee223c10490eaffa56d466412852:
+  original: Numerals
+  translated: ""
+  comments: []
+  literals: []
+50ff40ca3b6578fc15bcb74bde0b6b51c1557a473025e7b8d1cb830e:
+  original: Gender
+  translated: ""
+  comments: []
+  literals: []
+1109b7e5676a8d44978ee10201fb320d2033cdeb7ac7e78735611315:
+  original: Class
+  translated: ""
+  comments: []
+  literals: []
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: ""
+  comments: []
+  literals: []
+2bb9f40092ef7e794d622921e130c90585f25bc17f86d13aa383751b:
+  original: Cases
+  translated: ""
+  comments: []
+  literals: []
+f71a6b4aeb5530b69c93777602d07deafe97ff76e8a1d7b1ce98ab91:
+  original: Pronouns
+  translated: ""
+  comments: []
+  literals: []
+7c8489dfd11d0c6f3eb00cc49dcc7d9ba4da8bfc0459219b0314404b:
+  original: Personal pronouns
+  translated: ""
+  comments: []
+  literals: []
+fca19298824ed0ebb4b8339adaafbf9ba930ffbc482fb2227d20ec57:
+  original: Declension tables
+  translated: ""
+  comments: []
+  literals: []
+01f1e0d4d00ef2ad740b2b2f2205b02e5e23758a46b71ae54347a844:
+  original: Type
+  translated: ""
+  comments: []
+  literals: []
+47b75becf4989a27760838b597c8d15dcdf81d8d143e763098a0be5b:
+  original: Person and number
+  translated: ""
+  comments: []
+  literals: []
+f2cdd838db150cc9244f851773fa2157f656b656b65336c6e1919ef4:
+  original: Tense
+  translated: ""
+  comments: []
+  literals: []
+25443da77a42bbf889531b1650da131bd5b20c57015c58ecd58c9447:
+  original: Mood
+  translated: ""
+  comments: []
+  literals: []
+1eba9774ed22669859eaf99d1b8ee348958281d9f0092fe48888b54c:
+  original: Description
+  translated: ""
+  comments: []
+  literals: []
+f04bdd4d7ec02a7e026286824f2878eb765d93c74a02059baaf90a38:
+  original: Grade
+  translated: ""
+  comments: []
+  literals: []
+84d5827dfce32975fb2dfbaf800bf3aae299d1217d149d49e4a9359a:
+  original: Adverbs
+  translated: ""
+  comments: []
+  literals: []
+b4c6bf14f4eab05db153ecc409090972d2b1af4933e8fdc71331daab:
+  original: Derived adverbs
+  translated: ""
+  comments: []
+  literals: []
+568bc20361895de76ea52280fcc55ec38f05ed0cae79bc16311223fd:
+  original: Connections
+  translated: ""
+  comments: []
+  literals: []
+2c7230fdf90056284febadd49d741ccc9364eab0472496bd34ab5f8f:
+  original: Coordination
+  translated: ""
+  comments: []
+  literals: []
+e095a400e9a15af2debefea6cc20756ce36ad9a7c5cf90f7a900f12d:
+  original: Subordination
+  translated: ""
+  comments: []
+  literals: []
+7ff0d1130a88deaa342f422d2badd4934827bb120c40347820e2af8a:
+  original: Relative clauses
+  translated: ""
+  comments: []
+  literals: []
+a2ff0578b3b965e3b72ea3c0530ccf07551dba952b4e6bb0a4be87bd:
+  original: Prepositions
+  translated: ""
+  comments: []
+  literals: []
+0293a296b7ea041a59aefa5c0b64d00cac51d00a0885afe5f6330692:
+  original: Particles
+  translated: ""
+  comments: []
+  literals: []
+cb880a5d39d838bfd8d4f28032b73dd81da78b3ed36eee884760172d:
+  original: Interjection
+  translated: ""
+  comments: []
+  literals: []
+dce86861b9d13a21bae04001a234e429e2ae3f33d2a590e32f22fc10:
+  original: Conditionals
+  translated: ""
+  comments: []
+  literals: []
+badfbc61ff1dfd95251b1139f92aeef4687f8c2350ba4b81556cf145:
+  original: Antecedent
+  translated: ""
+  comments: []
+  literals: []
+08de3898341ef2fe77d49a4e8f563b4c068ecb64f669ab1cbb6f11cb:
+  original: Consequent
+  translated: ""
+  comments: []
+  literals: []
+9c8b9f6c8ea3417abc3de0b18bb32aaa8cd1a1fec3a1a54ef860bfae:
+  original: Questions
+  translated: ""
+  comments: []
+  literals: []
+9bbc67a4a6b184e4a4feec49d25ae58f1d7d44134f05ac8cf7bf0a27:
+  original: Interrogatives
+  translated: ""
+  comments: []
+  literals: []
+e3bd1dd6dbf1cd5b8d23ac532bdccf3510febf31e64bc7a2e0123f1c:
+  original: Replies
+  translated: ""
+  comments: []
+  literals: []
+82935282df19a76f65003ba2abc5a36ebd8693ed1f46c409ec3cbfb8:
+  original: Negation
+  translated: ""
+  comments: []
+  literals: []
+17c7e2911aff2fc36d161c4b1f95460b16c1ece385d6e23d82afadb8:
+  original: Communication
+  translated: ""
+  comments: []
+  literals: []
+fd7c71718231692b838613625c849ff320787bbabb7065df32f230fd:
+  original: Greetings
+  translated: ""
+  comments: []
+  literals: []
+3a5aed5335cab4d4186157db2be9a355d2020e75c3cbacb6029d6c2c:
+  original: Preference
+  translated: ""
+  comments: []
+  literals: []
+ec2d5d53472fffbf29d8eed42b5d0eba9c73c274719997d3cc1db08d:
+  original: Desire
+  translated: ""
+  comments: []
+  literals: []
+916e8e85831330fe21ba445c41d30d47233db645ffe58b952173e4d8:
+  original: Existence
+  translated: ""
+  comments: []
+  literals: []
+45879fb31c8eafd209d4f2c9f41fdff53eeff41eaaa6442d4ce7b032:
+  original: Location
+  translated: ""
+  comments: []
+  literals: []
+4fff41b3c21802be9fa5e2a78997fe4e16ef1731e82c5b3cfbc284f2:
+  original: Time
+  translated: ""
+  comments: []
+  literals: []
+929e8ecbbc8965d17afeab357756415e118265f4a04919ce60e299b5:
+  original: Family
+  translated: ""
+  comments: []
+  literals: []
+a10d3c70a9a19db44e9653a8a4cd5fd87f857b68b1b29e1411eeda61:
+  original: Topic
+  translated: ""
+  comments: []
+  literals: []
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: ""
+  comments: []
+  literals: []
+6c32fb7775646f4d5241204fa2acfb90c979dd17a32f5d2f0fd9234e:
+  original: A1
+  translated: ""
+  comments: []
+  literals: []
+d9d0981d48accd577a3742660a94571a95d4c5ec2b69e46090b411c3:
+  original: A walk by the river
+  translated: ""
+  comments: []
+  literals: []
+be99bbd52660bc375b827bbd3ba46289bb9f52a50ba486e289210835:
+  original: A good day
+  translated: ""
+  comments: []
+  literals: []
+4351e1742ddcdb0a0cabaa1364e79fc1a3fe0ee50a9128565e63dcd2:
+  original: en
+  translated: ""
+  comments: []
+  literals: []
+78ffd0bfa1de7baacdb9787298b07d349044ceb914afdd4f972c75b7:
+  original: Switch to dark mode
+  translated: ""
+  comments: []
+  literals: []
+1ad753d71024c4527727d68a42a3d506ba6e42cda2d06be504f08b76:
+  original: Switch to light mode
+  translated: ""
+  comments: []
+  literals: []
+9771c59cccbc26f4ef4ac11838269e756ee607bd8676b431ed9989f5:
+  original: Zerita is a feature-rich, expressive conlang, without any exceptions.
+  translated: ""
+  comments: []
+  literals: []
+a85d7fe4eb3bdf44583e529364e2e4c8b467d9ab26c3bba7ce20df27:
+  original: |-
+    It is a VSO language, inspired by other latin-based languages for the
+    vocabulary, the writing system, and the pronunciation. As such, it uses
+    the latin alphabet to be written, it has 1-1 correspondence between the
+    written and the spoken form, and is meant to be easy for machines to
+    understand. Expressiveness comes with a steeper learning curve, but the
+    absence of exceptions make up for it.
+  translated: ""
+  comments: []
+  literals: []
+36c6c5fe72836f2188c908ebf39ad1afa40d30311c543f2b9524d892:
+  original: Brief overview of zerita
+  translated: ""
+  comments: []
+  literals: []
+d6cf0afcb4ff4a8f63c0e86dd8a4d3c1aea2a32b2d84f48753def589:
+  original: |-
+    Zerita is meant to be a highly regular language, avoiding exceptions. It
+    also doesn't try to innovate on the phonetics, writing, and vocabulary,
+    as these are thought as the less substantial parts of a language.
+    Avoiding exceptions also makes it easy for machine parsing and science.
+  translated: ""
+  comments: []
+  literals: []
+c79951bb3cec50d09d1475eb98f5037bee02d4577ee25e64f8606a47:
+  original: |-
+    Zerita is easy, but extremely expressive. The design choice is always to
+    opt for the more expressive choice, even at the cost of making it more
+    complex, but not more complicated.
+  translated: ""
+  comments: []
+  literals: []
+0821f1a9f69a434b3ba1ebfbb1ac3d6e009554d16f41783368516a6d:
+  original: |-
+    One other choice that is present throughout zeritan rule is the information
+    flow. Zerita is a language that is meant to be literal, and express the
+    necessary information. For example, in English, a sentence like
+    "The door was red", is strongly associated with the past state. The speaker
+    most probably means that the door was read in the past, but not any more.
+    Contrary, in Zerita, "${Sive ta portis ruje}" means that the door was red,
+    but for the present state of the colour door, you cannot infer anything.
+  translated: ""
+  comments: []
+  literals:
+    - Sive ta portis ruje
+9a7c17e8bd4896dc1b5ca19c0cb833e86d037c3c1804f781b622e91f:
+  original: |-
+    Even though zerita is using latin-based languages for the vocabulary,
+    the writing system, and the pronunciation, this isn't true for the grammar
+    and the syntax. Zerita is using all natural languages and conlangs as
+    inspiration, and is trying to be innovative on these two.
+  translated: ""
+  comments: []
+  literals: []
+da55a5973f953deef9eaa5d37b25598d1b8659dc85d4e937eaaf10f2:
+  original: Features of zerita
+  translated: ""
+  comments: []
+  literals: []
+53b6e4c22f0dc746df4fede35c9ffb0be69517541d7d5c28b13631f7:
+  original: 'Zerita has some unique (or rare) features:'
+  translated: ""
+  comments: []
+  literals: []
+bf76327e4daf9a3944fe74e9600a1bc49ee514439a020ddf3c66bc28:
+  original: 4 person system
+  translated: ""
+  comments: []
+  literals: []
+f335e9b7a928b2f11b1624685533fa39676ab6eeedc665202d973ac9:
+  original: timeless tenses
+  translated: ""
+  comments: []
+  literals: []
+c779086a44814a7518b84e427e759030cad3fd24e7d2d0ec74617fff:
+  original: factual conditionals in the past
+  translated: ""
+  comments: []
+  literals: []
+b20263d266ba3c99c49ccfa79bf4102a4dd349be50f71e340769f716:
+  original: Zerita design
+  translated: ""
+  comments: []
+  literals: []
+e6b8b978d04e8fc630bcfda13c251258aef1f31df13381ada2ebc5fa:
+  original: |-
+    This is a short chapter that aims to provide the major ideas of the language,
+    the design principles behind it, and provides some key concepts and technical
+    terms that are required.
+  translated: ""
+  comments: []
+  literals: []
+52d7af5358e06137123c0e7b02ae903f71e1d8f10240f12f74552448:
+  original: Orthography of Zerita
+  translated: ""
+  comments: []
+  literals: []
+4a38b8cf01dadb0958c35794a979f42310e73088f9e1631cc673d7ad:
+  original: |-
+    Zerita uses 22 letter to spell all words, the letters of the latin
+    alphabet, apart from ${q}, ${w}, ${x}, and ${y}. They are pronounced as follows:
+  translated: ""
+  comments: []
+  literals:
+    - q
+    - w
+    - x
+    - y
+9614f288b820179fe5c3a7f44b8aac2afc771a948edc1d8437d6c4a5:
+  original: Letter
+  translated: ""
+  comments: []
+  literals: []
+a95a8a050f423d7148c9a3f6ae639266cb4e313ecc0d1039c79e3b8e:
+  original: IPA
+  translated: ""
+  comments: []
+  literals: []
+6eca4e1fa11414575a053effa7237bbaf0348ad3ff96b7e85bf149cb:
+  original: English equivalent
+  translated: ""
+  comments: []
+  literals: []
+11435cc1878b1fd242d01ec9e35ae581b39396af81d309ca456dfb18:
+  original: h**a**t
+  translated: ""
+  comments: []
+  literals: []
+b765ba47b80420fe50c7b9ec9d63f2fe62ad4db92a81bdd45e7c5b09:
+  original: a**b**ack
+  translated: ""
+  comments: []
+  literals: []
+8979e88d2c7918e7178177861cd4e5f8c094a257703c45da3ed94def:
+  original: '**ch**air'
+  translated: ""
+  comments: []
+  literals: []
+7dd988b6a7b3d067528e0a44f214b1451d9571436eb8b716fb1bcf3d:
+  original: '**d**og'
+  translated: ""
+  comments: []
+  literals: []
+9948acb5082b0cd1a06b2736a24be87d82eb6bac71fe21cd959ef6aa:
+  original: s**e**t
+  translated: ""
+  comments: []
+  literals: []
+a581933bc533176da15af3ee3dab889d22b9ffdaf08b788dbf7e4bed:
+  original: '**f**ish'
+  translated: ""
+  comments: []
+  literals: []
+58961897c8402cede4a05a1d2cc9bdbd9d51dcecae8922556524b42e:
+  original: '**g**et'
+  translated: ""
+  comments: []
+  literals: []
+00cda39220f4eadc1a9b68089b865be1c240be5a9e6b16402d841e2f:
+  original: '**h**oney'
+  translated: ""
+  comments: []
+  literals: []
+3bc53951d1b5881bc306b5aaf303a0c42f7e67ade2bc18a238b9fa0d:
+  original: sh**i**p
+  translated: ""
+  comments: []
+  literals: []
+26ae187cf83b2b350931f196fc8af13c886cd77b944e61bdd9ea7f94:
+  original: '**j**am'
+  translated: ""
+  comments: []
+  literals: []
+c6c501d9a327e46389282fe5127c349a4eda2fceb50b82e415d291b8:
+  original: '**k**ite'
+  translated: ""
+  comments: []
+  literals: []
+dc928992a2b47d032be0ed1026f166afdc2279258ee673f47a4491a5:
+  original: '**l**amp'
+  translated: ""
+  comments: []
+  literals: []
+593c72af186f220c802604069e5c83d51605c385c2954a68ef594ac8:
+  original: '**m**an'
+  translated: ""
+  comments: []
+  literals: []
+46a5ca0530117789cba9122b3e4b9b4707905a0a82b52d0b194f37bd:
+  original: '**n**ot'
+  translated: ""
+  comments: []
+  literals: []
+a5e004cf2e1ff98da571950e73bf6e667f619c1c245834cc7c2bb5d1:
+  original: cr**o**ss
+  translated: ""
+  comments: []
+  literals: []
+4836030bec50f24cd678e5a6a91ca0f7fbd9ca919ce61e03fad6d5e9:
+  original: '**p**an'
+  translated: ""
+  comments: []
+  literals: []
+4c4c57db6adeffa32eb5e6c45e66cbc245deae9bf53c23d46108fd3e:
+  original: '**r**un'
+  translated: ""
+  comments: []
+  literals: []
+0d24cc7f9a92bda8f4cb3ed201e94b608caf921583d3b3be02c74f69:
+  original: '**s**un'
+  translated: ""
+  comments: []
+  literals: []
+06db3e88b0d0c1f44f8b110443603e7d9797d040de52fa6b0f33ba0c:
+  original: '**t**ap'
+  translated: ""
+  comments: []
+  literals: []
+762ed8a1a4c5c5ed9c40ac0162318a87fe8da3aaa5fbad76741eaeb0:
+  original: bl**u**e
+  translated: ""
+  comments: []
+  literals: []
+37d964e44ec73e611c9ee5f53c06f1eaf9286ea9c9970967c67577be:
+  original: '**v**an'
+  translated: ""
+  comments: []
+  literals: []
+f389d0d46539a1e04797223ed11bc02821f3f2350b55027bc1a94588:
+  original: '**z**oo'
+  translated: ""
+  comments: []
+  literals: []
+a145d624437e6c45072efdd57b90d578d85d8b05e02e2e34a1a5d5b5:
+  original: Pronunciation
+  translated: ""
+  comments: []
+  literals: []
+2556eb5c1e8742ac34ed1835627978605b4ce02b92037a72946983bc:
+  original: |-
+    Each letter's pronunciation is meant to be as in the IPA, and it doesn't
+        match 100% the english sounds. The English equivalent is just the closest
+        sound in English (when the word is pronounced with the received pronunciation).
+  translated: ""
+  comments: []
+  literals: []
+51d88bdff28e27f925c46d6bde907946af5c23d3136ef06faad9831f:
+  original: |-
+    A word without any accent marks will have its penultimate syllable stressed,
+    or the only syllable if the word has a single syllable. If an accent mark is present,
+    it signifies the stressed syllable. For example, "${homis}" (human or person)
+    has the "${o}" as the stressed vowel, "${ni}" (no) has the "${i}" stressed, but "${asé}"
+    (3rd person pronoun) has the "${e}" stressed.
+  translated: ""
+  comments: []
+  literals:
+    - asé
+    - e
+    - homis
+    - i
+    - ni
+    - o
+0cd1c2ab935f190ee5f8839e5235c20899e8e81c8c645885d06f7b27:
+  original: Zerita is using no capitalisation of the letters, no diphthongs, and no
+    silent letters.
+  translated: ""
+  comments: []
+  literals: []
+796ead948ed03fb2977770e62b1a1e26f754db70cd6e8d8548c21995:
+  original: 'It uses the following punctuation marks:'
+  translated: ""
+  comments: []
+  literals: []
+fb0202410145911f9796a1d99eab5a13588a22ce785ad36064941f77:
+  original: Mark
+  translated: ""
+  comments: []
+  literals: []
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: ""
+  comments: []
+  literals: []
+3066f8a7f62e4e2351115b6bdbfb9f2dab2d0c0855f2f0ebe98db3ef:
+  original: Usage
+  translated: ""
+  comments: []
+  literals: []
+a39ba35fa83103c31a0de8c65022fe4beaa746b9987584152c463c25:
+  original: Period
+  translated: ""
+  comments: []
+  literals: []
+0d1f42007e100a4d5d9b2db759b69d8477e192a2d28284c6e50e9121:
+  original: Indicates the end of a declarative sentence.
+  translated: ""
+  comments: []
+  literals: []
+66ec817a9bf39eb9d956025e7e68b86569db1f2161d2ff25497f0b6b:
+  original: Semicolon
+  translated: ""
+  comments: []
+  literals: []
+39dac21919d2136b6885fb766a30d09c3b2309086fea411d9cd69f06:
+  original: Connects closely related independent clauses or separates items in a complex
+    list.
+  translated: ""
+  comments: []
+  literals: []
+51551501395e77ffd241e36945fd3de8388953d9584d8e2b4444ba00:
+  original: Comma
+  translated: ""
+  comments: []
+  literals: []
+12625575297986816d1c6392e2ea6a9470fc490ca05ab0d9c4ffab1e:
+  original: Separates elements in a list, clauses, or phrases within a sentence.
+  translated: ""
+  comments: []
+  literals: []
+dfd362edcbc4f113c01f505b915aa5c5c7f218b1e897c96ddb175fc8:
+  original: Colon
+  translated: ""
+  comments: []
+  literals: []
+278f0e9ee5dbba2d2d2bdf15b5f771da90b4754457f86ef09a42e28f:
+  original: Introduces a list, quotation, or explanation.
+  translated: ""
+  comments: []
+  literals: []
+9381f87cd033fd7fc5f116c3cd7b305d587df54b243926a7a842813f:
+  original: Exclamation Mark
+  translated: ""
+  comments: []
+  literals: []
+0c5bf98490b71376b153d9d1d7c72ede96a167fb69a263689e2b513e:
+  original: Expresses strong emotion or a command.
+  translated: ""
+  comments: []
+  literals: []
+6c6a5e1d61bd5f668dc952d87ff2670578d5fd38944374fa0afbd3fc:
+  original: Question Mark
+  translated: ""
+  comments: []
+  literals: []
+f9ef7a548bdea02b600707523611db1715bdca854bd7eb655ba82dbb:
+  original: Indicates a question.
+  translated: ""
+  comments: []
+  literals: []
+5cc296b44fdfc12416f7c121ad984d568dc6dccc16e232e4785335d7:
+  original: Quotation Marks
+  translated: ""
+  comments: []
+  literals: []
+be05b7d4705de12918be7101d328677cfaf3480d49a65b48599e3a6c:
+  original: Encloses direct speech, quotations, or titles of works.
+  translated: ""
+  comments: []
+  literals: []
+73926e90be70b547206ce2ea1f02a408fcfbb4eb688aa7b136d256da:
+  original: Punctuation and quotes
+  translated: ""
+  comments: []
+  literals: []
+527c196241cc9f4a080c8d2896b8509c8c8d38e15d4daa3075200add:
+  original: |-
+    Punctuation marks should be placed only outside the double quotes if they both the sentence
+        inside the quotes and outside of it end at the same time.
+  translated: ""
+  comments: []
+  literals: []
+e3a37c0c08f9674648e1d3fab30ab9bf9e3da752bcbf7b080e9df919:
+  original: |-
+    Names that come from other languages keep the original spelling if they are written in the latin
+    alphabet, or they have a standard latinisation, and they written phonetically otherwise.
+    As an aid to the reader, a name that comes from another language can be transliterated in Zerita
+    inside square brackets, the first time it appears in a passage, for example ${george[jorj]}.
+  translated: ""
+  comments: []
+  literals:
+    - george[jorj]
+2b7375dba3a56dad0bc08e0d1f76c21acc28330d0f71f1478ddb8b95:
+  original: This is a simple dictionary for zerita.
+  translated: ""
+  comments: []
+  literals: []
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: ""
+  comments: []
+  literals: []
+a1b0227fc8e4eb7cefbfa7cb04e952eab8d1577510e0a076e7d4e9f1:
+  original: sweet
+  translated: ""
+  comments: []
+  literals: []
+2050f88c7f59c5467cb45f43d6751276e9dcd6d47df375cc96bdc5a8:
+  original: beautiful
+  translated: ""
+  comments: []
+  literals: []
+f2e96e011247935e6495dd25157b931a37b01b83bf298e7087b732e9:
+  original: good
+  translated: ""
+  comments: []
+  literals: []
+ab465e3e1660e610de9417eee6fe08b3dcb9c379f48f3337eba9e596:
+  original: big
+  translated: ""
+  comments: []
+  literals: []
+5c5878f00e6557b858c10582b3d7ad2926809a36a790187d578a2a91:
+  original: bad
+  translated: ""
+  comments: []
+  literals: []
+666ba0a374db38ed08254c128184034bf5a73a57c44296a44d4a1370:
+  original: new
+  translated: ""
+  comments: []
+  literals: []
+7c773b51bcc39bbfed99d30de98b5830970545e6c258cf1d713995d1:
+  original: rich
+  translated: ""
+  comments: []
+  literals: []
+caa56185735a44509bccf4bf2380a53a5d19aca988f308471811335e:
+  original: 'There are 13 base colours in Zerita:'
+  translated: ""
+  comments: []
+  literals: []
+59edf046822432a7ce74567de0450a0532beadc0a32a68e39ac64815:
+  original: white
+  translated: ""
+  comments: []
+  literals: []
+ad48548beec59aa76f1adffb498c444fff47343410474a6bf144fb1d:
+  original: black
+  translated: ""
+  comments: []
+  literals: []
+5fa3f957d76ce12b5519113662e41b3ddcf8a5a12e6f483330e9e61f:
+  original: red
+  translated: ""
+  comments: []
+  literals: []
+25572bddd4e1626e5259281838ce003a4482826f8a70d85eb0968379:
+  original: green
+  translated: ""
+  comments: []
+  literals: []
+6592aaf255dc05f474341f0dcffb6e528ec99f0d2e510b5feb8db7a1:
+  original: blue
+  translated: ""
+  comments: []
+  literals: []
+7080fc2eedd2ecb72ab8eb26daf0d38238fa828bcb4878f2fbaefb12:
+  original: yellow
+  translated: ""
+  comments: []
+  literals: []
+d553f2b663637b1806fdda7dfc944d19ea2a7a964ee65869963679f4:
+  original: brown
+  translated: ""
+  comments: []
+  literals: []
+15d1f85df05d212a95488fb8d0beaa0ee028f28ace487eb9e0aa3c68:
+  original: purple
+  translated: ""
+  comments: []
+  literals: []
+0d1b571ecdb93c332f0d1bdc0ddb2be6b9767dfc263cbcb572078220:
+  original: pink
+  translated: ""
+  comments: []
+  literals: []
+032a70450a77ecd64f4908ec28c17e7d1706b1edb029624011ca9b79:
+  original: beige
+  translated: ""
+  comments: []
+  literals: []
+4abe884b9375d0a3bde8d0a7d3334132721f89bb3211d4474e9acbb2:
+  original: cyan
+  translated: ""
+  comments: []
+  literals: []
+37b56d83da112f5c4433334922ff6827f78a34684297eca7b0953df7:
+  original: orange
+  translated: ""
+  comments: []
+  literals: []
+28090f943b28e852926a47294a9e635c0489dd642050653fdbbe69ef:
+  original: grey
+  translated: ""
+  comments: []
+  literals: []
+7d5aa4a9c50d7dbe6d073bdab0a8fc8cb714198f5d3cc9a6a0e5b2b2:
+  original: 'There are two prefixes for the colour shade:'
+  translated: ""
+  comments: []
+  literals: []
+be468e24152576647c4fc26a4081af570c11a811440eb33c90e02534:
+  original: light
+  translated: ""
+  comments: []
+  literals: []
+6b7acfd3c12b2bbfb858af87a2433a7a7239e8222724d7265e0eb763:
+  original: dark
+  translated: ""
+  comments: []
+  literals: []
+0292328de6c59bafcc3212e277bb18882f48cacba1f75629e05ef57e:
+  original: 'and four adjectives for the colour finish:'
+  translated: ""
+  comments: []
+  literals: []
+74ac2cf7f2a432425e763871afc654c6c86f64d47cbc96b4bd8a432c:
+  original: metallic
+  translated: ""
+  comments: []
+  literals: []
+da5260c2f09283216aa8df3213041908eeedb29feede2bd087d93f2a:
+  original: matte
+  translated: ""
+  comments: []
+  literals: []
+46ca9b88253699fd30d7229a80945c01ed30a825e4127db8e5fb91d4:
+  original: glossy
+  translated: ""
+  comments: []
+  literals: []
+b1a5773db0963ad1410f1be31a56b63a88f7134d4d788dfc4ecb9b26:
+  original: neon
+  translated: ""
+  comments: []
+  literals: []
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: ""
+  comments: []
+  literals: []
+72cc4289816ee7ea7ffa11cf64dcd622ce2c355ce5229ea05980292a:
+  original: glossy blue
+  translated: ""
+  comments: []
+  literals: []
+75202de2ed8e3aacecf6f56df9969515c88406acfa5da6f625b6d2de:
+  original: dark red
+  translated: ""
+  comments: []
+  literals: []
+8d417d49f5eed58c22e8bc68f8b274fa1fb7682f0e9c213780dd3a62:
+  original: light green
+  translated: ""
+  comments: []
+  literals: []

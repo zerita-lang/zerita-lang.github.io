@@ -1,0 +1,140 @@
+site_name: <x-trans>Zerita</x-trans>
+docs_dir: ../docs
+site_dir: ../site
+
+repo_name: zerita-lang
+repo_url: https://github.com/zerita-lang/zerita-lang.github.io
+
+nav:
+  - <x-trans>Home</x-trans>: index.md
+  - <x-trans>Overview</x-trans>:
+      - overview/index.md
+      - <x-trans>Dictionary</x-trans>:
+          - overview/dictionary/index.md
+          - <x-trans>Adjectives</x-trans>: overview/dictionary/adjectives.md
+          - <x-trans>Nouns</x-trans>: overview/dictionary/nouns.md
+          - <x-trans>Verbs</x-trans>: overview/dictionary/verbs.md
+          - <x-trans>Colours</x-trans>: overview/dictionary/colours.md
+      - <x-trans>Syntax</x-trans>:
+          - overview/syntax/index.md
+          - <x-trans>Phrases</x-trans>: overview/syntax/phrases.md
+          - <x-trans>Words and lexemes</x-trans>: overview/syntax/words.md
+      - <x-trans>Orthography</x-trans>: overview/orthography.md
+  - <x-trans>Determinatives</x-trans>:
+      - determinatives/index.md
+      - <x-trans>Articles</x-trans>: determinatives/articles.md
+      - <x-trans>Demonstratives</x-trans>: determinatives/demonstratives.md
+      - <x-trans>Possessives</x-trans>: determinatives/possessives.md
+      - <x-trans>Quantifiers</x-trans>: determinatives/quantifiers.md
+      - <x-trans>Numerals</x-trans>: determinatives/numerals.md
+  - <x-trans>Nouns</x-trans>:
+      - nouns/index.md
+      - <x-trans>Gender</x-trans>: nouns/gender.md
+      - <x-trans>Class</x-trans>: nouns/class.md
+      - <x-trans>Number</x-trans>: nouns/number.md
+      - <x-trans>Cases</x-trans>: nouns/cases.md
+      - <x-trans>Pronouns</x-trans>:
+          - nouns/pronouns/index.md
+          - <x-trans>Personal pronouns</x-trans>: nouns/pronouns/personal.md
+      - <x-trans>Declension tables</x-trans>: nouns/declension.md
+  - <x-trans>Verbs</x-trans>:
+      - verbs/index.md
+      - <x-trans>Type</x-trans>: verbs/type.md
+      - <x-trans>Person and number</x-trans>: verbs/person.md
+      - <x-trans>Tense</x-trans>: verbs/tense.md
+      - <x-trans>Mood</x-trans>: verbs/mood.md
+      - <x-trans>Declension tables</x-trans>: verbs/declension.md
+  - <x-trans>Description</x-trans>:
+      - description/index.md
+      - <x-trans>Adjectives</x-trans>:
+          - description/adjectives/index.md
+          - <x-trans>Grade</x-trans>: description/adjectives/grade.md
+      - <x-trans>Adverbs</x-trans>:
+          - description/adverbs/index.md
+          - <x-trans>Derived adverbs</x-trans>: description/adverbs/derived.md
+  - <x-trans>Connections</x-trans>:
+      - connection/index.md
+      - <x-trans>Coordination</x-trans>: connection/coordination.md
+      - <x-trans>Subordination</x-trans>: connection/subordination.md
+      - <x-trans>Relative clauses</x-trans>: connection/relative.md
+      - <x-trans>Prepositions</x-trans>: connection/prepositions.md
+      - <x-trans>Particles</x-trans>: connection/particles.md
+      - <x-trans>Interjection</x-trans>: questions/interjection.md
+  - <x-trans>Conditionals</x-trans>:
+      - conditionals/index.md
+      - <x-trans>Antecedent</x-trans>: conditionals/antecedent.md
+      - <x-trans>Consequent</x-trans>: conditionals/consequent.md
+  - <x-trans>Questions</x-trans>:
+      - questions/index.md
+      - <x-trans>Interrogatives</x-trans>: questions/interrogatives.md
+      - <x-trans>Replies</x-trans>: questions/reply.md
+      - <x-trans>Negation</x-trans>: questions/negation.md
+  - <x-trans>Communication</x-trans>:
+      - communication/index.md
+      - <x-trans>Greetings</x-trans>: communication/greetings.md
+      - <x-trans>Preference</x-trans>: communication/preference.md
+      - <x-trans>Desire</x-trans>: communication/desire.md
+      - <x-trans>Existence</x-trans>: communication/existence.md
+      - <x-trans>Location</x-trans>: communication/location.md
+      - <x-trans>Time</x-trans>: communication/time.md
+      - <x-trans>Family</x-trans>: communication/family.md
+      - <x-trans>Topic</x-trans>: communication/topic.md
+  - <x-trans>Examples</x-trans>:
+      - examples/index.md
+      - <x-trans>A1</x-trans>:
+          - examples/a1/index.md
+          - <x-trans>A walk by the river</x-trans>: examples/a1/river.md
+          - <x-trans>A good day</x-trans>: examples/a1/good_day.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
+
+theme:
+  name: material
+  language: <x-trans>en</x-trans>
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: <x-trans>Switch to dark mode</x-trans>
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: <x-trans>Switch to light mode</x-trans>
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tracking
+    - search
+    - search.suggest
+    - search.share
+
+plugins:
+  - search:
+      lang: <x-trans>en</x-trans>
+
+extra:
+  alternate:
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en
+    - name: 🇬🇷 Ελληνικά
+      link: /el/
+      lang: el

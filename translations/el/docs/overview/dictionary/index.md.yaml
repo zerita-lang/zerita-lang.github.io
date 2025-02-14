@@ -1,0 +1,14 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+aeb98f29468b90b3a82f6fb1b12975d57046a8100a11d65442d7d712:
+  original: Dictionary
+  translated: Λεξικό
+  comments: []
+  literals: []
+2b7375dba3a56dad0bc08e0d1f76c21acc28330d0f71f1478ddb8b95:
+  original: This is a simple dictionary for zerita.
+  translated: Αυτό είναι ένα απλό λεξικό για τη ζερίτα.
+  comments: []
+  literals: []
