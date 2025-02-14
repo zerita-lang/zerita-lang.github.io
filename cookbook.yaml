@@ -1,0 +1,49 @@
+$globals:
+  version: "8.1"
+
+translations/(?P<language>[a-z]{2})/(?P<path>.+).yaml:
+  regex: true
+  requires:
+    - templates/${path}
+  commands:
+    - pysetta generate ${.requirements:0} -o ${.target}
+
+(?P<language>[a-z]{2})/(?P<path>.+):
+  regex: true
+  requires:
+    - templates/${path}
+    - translations/${language}/${path}.yaml
+  commands:
+    - pysetta translate ${.requirements:0} -t ${.requirements:1} -o ${.target}
+
+build-(?P<language>.+):
+  regex: true
+  phony: true
+  requires:
+    - ${language}/config/mkdocs.yml
+  commands:
+    - mike deploy --config-file=${language}/config/mkdocs.yml ${language}
+
+build:
+  phony: true
+  requires:
+    - install
+    - build-en
+    - build-el
+  commands:
+    - mike set-default --config-file=en/config/mkdocs.yml en
+
+install:
+  phony: true
+  keep_ts: true
+  requires:
+    - uv.lock
+  commands:
+    - uv sync --frozen
+
+uv.lock:
+  update: true
+  requires:
+    - pyproject.toml
+  commands:
+    - uv lock

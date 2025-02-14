@@ -1,0 +1,318 @@
+%YAML 1.2
+%TAG !default! True
+---
+title:
+  original: zerita
+  translated: ""
+  comments: []
+  literals: []
+language:
+  original: en
+  translated: ""
+  comments: []
+  literals: []
+home:
+  original: Home
+  translated: ""
+  comments: []
+  literals: []
+overview:
+  original: Overview
+  translated: ""
+  comments: []
+  literals: []
+dictionary:
+  original: Dictionary
+  translated: ""
+  comments: []
+  literals: []
+adjectives:
+  original: Adjectives
+  translated: ""
+  comments: []
+  literals: []
+nouns:
+  original: Nouns
+  translated: ""
+  comments: []
+  literals: []
+verbs:
+  original: Verbs
+  translated: ""
+  comments: []
+  literals: []
+colours:
+  original: Colours
+  translated: ""
+  comments: []
+  literals: []
+syntax:
+  original: Syntax
+  translated: ""
+  comments: []
+  literals: []
+phrases:
+  original: Phrases
+  translated: ""
+  comments: []
+  literals: []
+words:
+  original: Words and lexemes
+  translated: ""
+  comments: []
+  literals: []
+orthography:
+  original: Orthography
+  translated: ""
+  comments: []
+  literals: []
+determinatives:
+  original: Determinatives
+  translated: ""
+  comments: []
+  literals: []
+articles:
+  original: Articles
+  translated: ""
+  comments: []
+  literals: []
+demonstratives:
+  original: Demonstratives
+  translated: ""
+  comments: []
+  literals: []
+possessives:
+  original: Possessives
+  translated: ""
+  comments: []
+  literals: []
+quantifiers:
+  original: Quantifiers
+  translated: ""
+  comments: []
+  literals: []
+numerals:
+  original: Numerals
+  translated: ""
+  comments: []
+  literals: []
+gender:
+  original: Gender
+  translated: ""
+  comments: []
+  literals: []
+class:
+  original: Class
+  translated: ""
+  comments: []
+  literals: []
+number:
+  original: Number
+  translated: ""
+  comments: []
+  literals: []
+cases:
+  original: Cases
+  translated: ""
+  comments: []
+  literals: []
+pronouns:
+  original: Pronouns
+  translated: ""
+  comments: []
+  literals: []
+personal:
+  original: Personal pronouns
+  translated: ""
+  comments: []
+  literals: []
+declension:
+  original: Declension tables
+  translated: ""
+  comments: []
+  literals: []
+type:
+  original: Type
+  translated: ""
+  comments: []
+  literals: []
+person:
+  original: Person and number
+  translated: ""
+  comments: []
+  literals: []
+tense:
+  original: Tense
+  translated: ""
+  comments: []
+  literals: []
+mood:
+  original: Mood
+  translated: ""
+  comments: []
+  literals: []
+description:
+  original: Description
+  translated: ""
+  comments: []
+  literals: []
+grade:
+  original: Grade
+  translated: ""
+  comments: []
+  literals: []
+adverbs:
+  original: Adverbs
+  translated: ""
+  comments: []
+  literals: []
+derived:
+  original: Derived adverbs
+  translated: ""
+  comments: []
+  literals: []
+connections:
+  original: Connections
+  translated: ""
+  comments: []
+  literals: []
+coordination:
+  original: Coordination
+  translated: ""
+  comments: []
+  literals: []
+subordination:
+  original: Subordination
+  translated: ""
+  comments: []
+  literals: []
+relative:
+  original: Relative clauses
+  translated: ""
+  comments: []
+  literals: []
+prepositions:
+  original: Prepositions
+  translated: ""
+  comments: []
+  literals: []
+particles:
+  original: Particles
+  translated: ""
+  comments: []
+  literals: []
+interjection:
+  original: Interjection
+  translated: ""
+  comments: []
+  literals: []
+conditionals:
+  original: Conditionals
+  translated: ""
+  comments: []
+  literals: []
+antecedent:
+  original: Antecedent
+  translated: ""
+  comments: []
+  literals: []
+consequent:
+  original: Consequent
+  translated: ""
+  comments: []
+  literals: []
+questions:
+  original: Questions
+  translated: ""
+  comments: []
+  literals: []
+interrogatives:
+  original: Interrogatives
+  translated: ""
+  comments: []
+  literals: []
+replies:
+  original: Replies
+  translated: ""
+  comments: []
+  literals: []
+negation:
+  original: Negation
+  translated: ""
+  comments: []
+  literals: []
+communication:
+  original: Communication
+  translated: ""
+  comments: []
+  literals: []
+greetings:
+  original: Greetings
+  translated: ""
+  comments: []
+  literals: []
+preference:
+  original: Preference
+  translated: ""
+  comments: []
+  literals: []
+desire:
+  original: Desire
+  translated: ""
+  comments: []
+  literals: []
+existence:
+  original: Existence
+  translated: ""
+  comments: []
+  literals: []
+location:
+  original: Location
+  translated: ""
+  comments: []
+  literals: []
+time:
+  original: Time
+  translated: ""
+  comments: []
+  literals: []
+family:
+  original: Family
+  translated: ""
+  comments: []
+  literals: []
+topic:
+  original: Topic
+  translated: ""
+  comments: []
+  literals: []
+examples:
+  original: Examples
+  translated: ""
+  comments: []
+  literals: []
+a1:
+  original: A1
+  translated: ""
+  comments: []
+  literals: []
+river:
+  original: A walk by the river
+  translated: ""
+  comments: []
+  literals: []
+good_day:
+  original: A good day
+  translated: ""
+  comments: []
+  literals: []
+switch_to_dark_mode:
+  original: Switch to dark mode
+  translated: ""
+  comments: []
+  literals: []
+switch_to_light_mode:
+  original: Switch to light mode
+  translated: ""
+  comments: []
+  literals: []

@@ -1,0 +1,140 @@
+site_name: <x-trans key="title">zerita</x-trans>
+docs_dir: "../../docs/<x-trans key='language'>en</x-trans>"
+site_dir: "../../site/<x-trans key='language'>en</x-trans>"
+
+repo_name: zerita-lang
+repo_url: https://github.com/zerita-lang/zerita-lang.github.io
+
+nav:
+  - <x-trans key="home">Home</x-trans>: index.md
+  - <x-trans key="overview">Overview</x-trans>:
+      - overview/index.md
+      - <x-trans key="dictionary">Dictionary</x-trans>:
+          - overview/dictionary/index.md
+          - <x-trans key="adjectives">Adjectives</x-trans>: overview/dictionary/adjectives.md
+          - <x-trans key="nouns">Nouns</x-trans>: overview/dictionary/nouns.md
+          - <x-trans key="verbs">Verbs</x-trans>: overview/dictionary/verbs.md
+          - <x-trans key="colours">Colours</x-trans>: overview/dictionary/colours.md
+      - <x-trans key="syntax">Syntax</x-trans>:
+          - overview/syntax/index.md
+          - <x-trans key="phrases">Phrases</x-trans>: overview/syntax/phrases.md
+          - <x-trans key="words">Words and lexemes</x-trans>: overview/syntax/words.md
+      - <x-trans key="orthography">Orthography</x-trans>: overview/orthography.md
+  - <x-trans key="determinatives">Determinatives</x-trans>:
+      - determinatives/index.md
+      - <x-trans key="articles">Articles</x-trans>: determinatives/articles.md
+      - <x-trans key="demonstratives">Demonstratives</x-trans>: determinatives/demonstratives.md
+      - <x-trans key="possessives">Possessives</x-trans>: determinatives/possessives.md
+      - <x-trans key="quantifiers">Quantifiers</x-trans>: determinatives/quantifiers.md
+      - <x-trans key="numerals">Numerals</x-trans>: determinatives/numerals.md
+  - <x-trans key="nouns">Nouns</x-trans>:
+      - nouns/index.md
+      - <x-trans key="gender">Gender</x-trans>: nouns/gender.md
+      - <x-trans key="class">Class</x-trans>: nouns/class.md
+      - <x-trans key="number">Number</x-trans>: nouns/number.md
+      - <x-trans key="cases">Cases</x-trans>: nouns/cases.md
+      - <x-trans key="pronouns">Pronouns</x-trans>:
+          - nouns/pronouns/index.md
+          - <x-trans key="personal">Personal pronouns</x-trans>: nouns/pronouns/personal.md
+      - <x-trans key="declension">Declension tables</x-trans>: nouns/declension.md
+  - <x-trans key="verbs">Verbs</x-trans>:
+      - verbs/index.md
+      - <x-trans key="type">Type</x-trans>: verbs/type.md
+      - <x-trans key="person">Person and number</x-trans>: verbs/person.md
+      - <x-trans key="tense">Tense</x-trans>: verbs/tense.md
+      - <x-trans key="mood">Mood</x-trans>: verbs/mood.md
+      - <x-trans key="declension">Declension tables</x-trans>: verbs/declension.md
+  - <x-trans key="description">Description</x-trans>:
+      - description/index.md
+      - <x-trans key="adjectives">Adjectives</x-trans>:
+          - description/adjectives/index.md
+          - <x-trans key="grade">Grade</x-trans>: description/adjectives/grade.md
+      - <x-trans key="adverbs">Adverbs</x-trans>:
+          - description/adverbs/index.md
+          - <x-trans key="derived">Derived adverbs</x-trans>: description/adverbs/derived.md
+  - <x-trans key="connections">Connections</x-trans>:
+      - connection/index.md
+      - <x-trans key="coordination">Coordination</x-trans>: connection/coordination.md
+      - <x-trans key="subordination">Subordination</x-trans>: connection/subordination.md
+      - <x-trans key="relative">Relative clauses</x-trans>: connection/relative.md
+      - <x-trans key="prepositions">Prepositions</x-trans>: connection/prepositions.md
+      - <x-trans key="particles">Particles</x-trans>: connection/particles.md
+      - <x-trans key="interjection">Interjection</x-trans>: questions/interjection.md
+  - <x-trans key="conditionals">Conditionals</x-trans>:
+      - conditionals/index.md
+      - <x-trans key="antecedent">Antecedent</x-trans>: conditionals/antecedent.md
+      - <x-trans key="consequent">Consequent</x-trans>: conditionals/consequent.md
+  - <x-trans key="questions">Questions</x-trans>:
+      - questions/index.md
+      - <x-trans key="interrogatives">Interrogatives</x-trans>: questions/interrogatives.md
+      - <x-trans key="replies">Replies</x-trans>: questions/reply.md
+      - <x-trans key="negation">Negation</x-trans>: questions/negation.md
+  - <x-trans key="communication">Communication</x-trans>:
+      - communication/index.md
+      - <x-trans key="greetings">Greetings</x-trans>: communication/greetings.md
+      - <x-trans key="preference">Preference</x-trans>: communication/preference.md
+      - <x-trans key="desire">Desire</x-trans>: communication/desire.md
+      - <x-trans key="existence">Existence</x-trans>: communication/existence.md
+      - <x-trans key="location">Location</x-trans>: communication/location.md
+      - <x-trans key="time">Time</x-trans>: communication/time.md
+      - <x-trans key="family">Family</x-trans>: communication/family.md
+      - <x-trans key="topic">Topic</x-trans>: communication/topic.md
+  - <x-trans key="examples">Examples</x-trans>:
+      - examples/index.md
+      - <x-trans key="a1">A1</x-trans>:
+          - examples/a1/index.md
+          - <x-trans key="river">A walk by the river</x-trans>: examples/a1/river.md
+          - <x-trans key="good_day">A good day</x-trans>: examples/a1/good_day.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      use_pygments: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets
+
+theme:
+  name: material
+  language: <x-trans key="language">en</x-trans>
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: <x-trans key="switch_to_dark_mode">Switch to dark mode</x-trans>
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: <x-trans key="switch_to_light_mode">Switch to light mode</x-trans>
+
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - navigation.tracking
+    - search
+    - search.suggest
+    - search.share
+
+plugins:
+  - search:
+      lang: <x-trans key="language">en</x-trans>
+
+extra:
+  alternate:
+    - name: 🇬🇧 English
+      link: /en/
+      lang: en
+    - name: 🇬🇷 Ελληνικά
+      link: /el/
+      lang: el

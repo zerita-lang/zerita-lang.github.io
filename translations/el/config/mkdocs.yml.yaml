@@ -1,0 +1,318 @@
+%YAML 1.2
+%TAG !default! False
+---
+title:
+  original: zerita
+  translated: Ζερίτα
+  comments: []
+  literals: []
+language:
+  original: en
+  translated: el
+  comments: []
+  literals: []
+home:
+  original: Home
+  translated: Αρχική
+  comments: []
+  literals: []
+overview:
+  original: Overview
+  translated: Επισκόπηση
+  comments: []
+  literals: []
+dictionary:
+  original: Dictionary
+  translated: Λεξικό
+  comments: []
+  literals: []
+adjectives:
+  original: Adjectives
+  translated: Επίθετα
+  comments: []
+  literals: []
+nouns:
+  original: Nouns
+  translated: Ουσιαστικά
+  comments: []
+  literals: []
+verbs:
+  original: Verbs
+  translated: Ρήματα
+  comments: []
+  literals: []
+colours:
+  original: Colours
+  translated: Χρώματα
+  comments: []
+  literals: []
+syntax:
+  original: Syntax
+  translated: Συντακτικό
+  comments: []
+  literals: []
+phrases:
+  original: Phrases
+  translated: Φράσεις
+  comments: []
+  literals: []
+words:
+  original: Words and lexemes
+  translated: Λέξεις και λεξήματα
+  comments: []
+  literals: []
+orthography:
+  original: Orthography
+  translated: Ορθογραφία
+  comments: []
+  literals: []
+determinatives:
+  original: Determinatives
+  translated: Προσδιοριστικά
+  comments: []
+  literals: []
+articles:
+  original: Articles
+  translated: Άρθρα
+  comments: []
+  literals: []
+demonstratives:
+  original: Demonstratives
+  translated: Δεικτικά
+  comments: []
+  literals: []
+possessives:
+  original: Possessives
+  translated: Κτητικά
+  comments: []
+  literals: []
+quantifiers:
+  original: Quantifiers
+  translated: Ποσοδείκτες
+  comments: []
+  literals: []
+numerals:
+  original: Numerals
+  translated: Αριθμητικά
+  comments: []
+  literals: []
+gender:
+  original: Gender
+  translated: Γένος
+  comments: []
+  literals: []
+class:
+  original: Class
+  translated: Κλάση
+  comments: []
+  literals: []
+number:
+  original: Number
+  translated: Αριθμός
+  comments: []
+  literals: []
+cases:
+  original: Cases
+  translated: Πτώσεις
+  comments: []
+  literals: []
+pronouns:
+  original: Pronouns
+  translated: Αντωνυμίες
+  comments: []
+  literals: []
+personal:
+  original: Personal pronouns
+  translated: Προσωπικές αντωνυμίες
+  comments: []
+  literals: []
+declension:
+  original: Declension tables
+  translated: Πίνακες κλίσης
+  comments: []
+  literals: []
+type:
+  original: Type
+  translated: Τύπος
+  comments: []
+  literals: []
+person:
+  original: Person and number
+  translated: Πρόσωπο και αριθμός
+  comments: []
+  literals: []
+tense:
+  original: Tense
+  translated: Χρόνος
+  comments: []
+  literals: []
+mood:
+  original: Mood
+  translated: Έγκλιση
+  comments: []
+  literals: []
+description:
+  original: Description
+  translated: Περιγραφή
+  comments: []
+  literals: []
+grade:
+  original: Grade
+  translated: Βαθμός
+  comments: []
+  literals: []
+adverbs:
+  original: Adverbs
+  translated: Επιρρήματα
+  comments: []
+  literals: []
+derived:
+  original: Derived adverbs
+  translated: Παράγωγα επιρρήματα
+  comments: []
+  literals: []
+connections:
+  original: Connections
+  translated: Συνδέσεις
+  comments: []
+  literals: []
+coordination:
+  original: Coordination
+  translated: Συντονισμός
+  comments: []
+  literals: []
+subordination:
+  original: Subordination
+  translated: Υποταγή
+  comments: []
+  literals: []
+relative:
+  original: Relative clauses
+  translated: Σχετικές προτάσεις
+  comments: []
+  literals: []
+prepositions:
+  original: Prepositions
+  translated: Προθέσεις
+  comments: []
+  literals: []
+particles:
+  original: Particles
+  translated: Μόρια
+  comments: []
+  literals: []
+interjection:
+  original: Interjection
+  translated: Επιφωνήματα
+  comments: []
+  literals: []
+conditionals:
+  original: Conditionals
+  translated: Υποθετικές προτάσεις
+  comments: []
+  literals: []
+antecedent:
+  original: Antecedent
+  translated: Υπόθεση
+  comments: []
+  literals: []
+consequent:
+  original: Consequent
+  translated: Απόδοση
+  comments: []
+  literals: []
+questions:
+  original: Questions
+  translated: Ερωτήσεις
+  comments: []
+  literals: []
+interrogatives:
+  original: Interrogatives
+  translated: Ερωτηματικά
+  comments: []
+  literals: []
+replies:
+  original: Replies
+  translated: Απαντήσεις
+  comments: []
+  literals: []
+negation:
+  original: Negation
+  translated: Άρνηση
+  comments: []
+  literals: []
+communication:
+  original: Communication
+  translated: Επικοινωνία
+  comments: []
+  literals: []
+greetings:
+  original: Greetings
+  translated: Χαιρετισμοί
+  comments: []
+  literals: []
+preference:
+  original: Preference
+  translated: Προτιμήσεις
+  comments: []
+  literals: []
+desire:
+  original: Desire
+  translated: Επιθυμία
+  comments: []
+  literals: []
+existence:
+  original: Existence
+  translated: Ύπαρξη
+  comments: []
+  literals: []
+location:
+  original: Location
+  translated: Τοποθεσία
+  comments: []
+  literals: []
+time:
+  original: Time
+  translated: Χρόνος
+  comments: []
+  literals: []
+family:
+  original: Family
+  translated: Οικογένεια
+  comments: []
+  literals: []
+topic:
+  original: Topic
+  translated: Θέμα
+  comments: []
+  literals: []
+examples:
+  original: Examples
+  translated: Παραδείγματα
+  comments: []
+  literals: []
+a1:
+  original: A1
+  translated: Α1
+  comments: []
+  literals: []
+river:
+  original: A walk by the river
+  translated: Μία βόλτα στο ποτάμι
+  comments: []
+  literals: []
+good_day:
+  original: A good day
+  translated: Μία καλή μέρα
+  comments: []
+  literals: []
+switch_to_dark_mode:
+  original: Switch to dark mode
+  translated: Αλλαγή σε σκοτεινή λειτουργία
+  comments: []
+  literals: []
+switch_to_light_mode:
+  original: Switch to light mode
+  translated: Αλλαγή σε φωτεινή λειτουργία
+  comments: []
+  literals: []
