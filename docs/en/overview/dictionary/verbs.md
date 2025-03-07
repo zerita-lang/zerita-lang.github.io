@@ -1,0 +1,36 @@
+# Verbs
+
+| Zerita  | English |
+| ------- | ------- |
+| amor    | love    |
+| bul     | boil    |
+| don     | give    |
+| dubit   | doubt   |
+| edr     | eat     |
+| emer    | buy     |
+| esper   | hope    |
+| estim   | like    |
+| fid     | believe |
+| glak    | freeze  |
+| imper   | command |
+| jog     | play    |
+| kant    | sing    |
+| konklud | infer   |
+| leg     | read    |
+| maner   | stay    |
+| mort    | die     |
+| niv     | snow    |
+| oblig   | must    |
+| olf     | smell   |
+| opt     | wish    |
+| perd    | lose    |
+| pluv    | rain    |
+| pos     | can     |
+| pot     | drink   |
+| rid     | laugh   |
+| s       | be      |
+| serv    | serve   |
+| vid     | see     |
+| vink    | win     |
+| viv     | live    |
+| vol     | want    |
