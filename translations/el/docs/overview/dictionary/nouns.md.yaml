@@ -1,0 +1,73 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: Ζερίτα
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+80a4113048482e10b8bd9a039140b003180a58da7b7243cd8f1c222e:
+  original: water
+  translated: νερό
+421f0c2e8ce535b5aeda5cec371ecbc44a6cfc4a8267775abff699ec:
+  original: dawn
+  translated: ξημέρωμα
+90e1a3954c6a24b9aa87112bf601d3d2dbf5b88a4fc0301cc4ee7cb4:
+  original: car
+  translated: αυτοκίνητο
+4da6de649b818f351444e92c0634987f696e561a9557600d578eee70:
+  original: bird
+  translated: πουλί
+e56d4d0994e4267bb0eae0329e0bf25f7c3792937ef8dc5d1963a069:
+  original: dinner
+  translated: γεύμα
+fd17aba59c71e898d5fffc8a6d8b61fd060a9cfec2718cb4304cb65c:
+  original: dusk
+  translated: σούρουπο
+2abcab0f3d0db984ef4b096afbc331420a1874643f431ed9f24c1e5a:
+  original: document
+  translated: έγγραφο
+5da61735d50e897c952738454e699a9f2061932b0319af658a83f547:
+  original: house
+  translated: σπίτι
+d03aa067a7a9d0de8d5626ff787d053f9567f8073235eb95f9c7fdd6:
+  original: army
+  translated: στρατός
+4798658a36f5bda71176215f994099268c777f294006736b4ad5ec8e:
+  original: child (offspring)
+  translated: παιδί (απόγονος)
+303f55a681ad0b0312331be623944bacb8607ec41eccdca33b9b46d7:
+  original: fork
+  translated: πιρούνι
+0ac22bdf5de1a72a826f21edde1153db02cb9607ad355b46be213a20:
+  original: documentation
+  translated: οδηγίες χρήσης
+647c2ea88360225a2a09f303b210325ccde5668ed635aad39dfa01d8:
+  original: spoon
+  translated: κουτάλι
+c508ffeacfda18ffa4d3e3988e6873b4ea12b95ac745b77853d1afe2:
+  original: knife
+  translated: μαχαίρι
+80f5b92a8ef86f91e0a0bfa08b92d326e89ae6bfe5171fbc4750ce35:
+  original: book
+  translated: βιβλίο
+b91c50647942e3834821d4cecbb6f24a42cb55cfdbb1d40d55cb33ee:
+  original: name
+  translated: όνομα
+9d4e90eadf99825a116fc032194310243846ea46a89e5f642df0de29:
+  original: child (young human)
+  translated: παιδί (ανήλικος)
+1012527b8605ba4644eef2e88744ae56c4a1501fc6c7553d4c385c06:
+  original: rose
+  translated: τριαντάφυλλο
+85a4c26278a8a8a71c35d3cd62992f7ef534ae1b95fe073c0a2bed2a:
+  original: parent
+  translated: γονιός
+c5e39fd907e5f28a8445a60e888de1f363dc6339cd9ac7f409a0f2d0:
+  original: dessert
+  translated: επιδόρπιο
