@@ -1,0 +1,34 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+26795d8bb4d9eb6cea67bb048a237240c74177f7a1d5f89b29d2318c:
+  original: Adjectives
+  translated: Επίθετα
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: Ζερίτα
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+a1b0227fc8e4eb7cefbfa7cb04e952eab8d1577510e0a076e7d4e9f1:
+  original: sweet
+  translated: γλυκός
+2050f88c7f59c5467cb45f43d6751276e9dcd6d47df375cc96bdc5a8:
+  original: beautiful
+  translated: όμορφος
+f2e96e011247935e6495dd25157b931a37b01b83bf298e7087b732e9:
+  original: good
+  translated: καλός
+ab465e3e1660e610de9417eee6fe08b3dcb9c379f48f3337eba9e596:
+  original: big
+  translated: μεγάλος
+5c5878f00e6557b858c10582b3d7ad2926809a36a790187d578a2a91:
+  original: bad
+  translated: κακός
+666ba0a374db38ed08254c128184034bf5a73a57c44296a44d4a1370:
+  original: new
+  translated: νέος
+7c773b51bcc39bbfed99d30de98b5830970545e6c258cf1d713995d1:
+  original: rich
+  translated: πλούσιος
