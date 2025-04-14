@@ -1,0 +1,264 @@
+%YAML 1.2
+---
+52d7af5358e06137123c0e7b02ae903f71e1d8f10240f12f74552448:
+  original: Orthography of Zerita
+  translated: Ορθογραφία της Zερίτα
+a7a26f3908022efc4e49fb27c27ec0b7433481b4bbf7544486d6346e:
+  original:
+    Zerita uses 22 letter to spell all words, the letters of the latin alphabet,
+    apart from &{q} and &{w}.
+  translated:
+    Η ζερίτα χρησιμοποιεί 22 γράμματα από το λατινικό αλφάβητο για την γραφή
+    της, όλα εκτός από το &{q} και το &{w}.
+  literals:
+    - q
+    - w
+51e656b111f9364ee3cbb2442aa15e0a94fd3d5bea01b2aeec459a72:
+  original: "They are pronounced as follows:"
+  translated: "Προφέρονται ως εξής:"
+9614f288b820179fe5c3a7f44b8aac2afc771a948edc1d8437d6c4a5:
+  original: Letter
+  translated: Γράμμα
+a95a8a050f423d7148c9a3f6ae639266cb4e313ecc0d1039c79e3b8e:
+  original: IPA
+  translated: ΔΦΑ
+6eca4e1fa11414575a053effa7237bbaf0348ad3ff96b7e85bf149cb:
+  original: English equivalent
+  translated: Ελληνικό αντίστοιχο
+11435cc1878b1fd242d01ec9e35ae581b39396af81d309ca456dfb18:
+  original: h**a**t
+  translated: "**ά**λογο"
+b765ba47b80420fe50c7b9ec9d63f2fe62ad4db92a81bdd45e7c5b09:
+  original: a**b**ack
+  translated: "**μπ**ότα"
+8979e88d2c7918e7178177861cd4e5f8c094a257703c45da3ed94def:
+  original: "**ch**air"
+  translated: "**τσ**άι"
+7dd988b6a7b3d067528e0a44f214b1451d9571436eb8b716fb1bcf3d:
+  original: "**d**og"
+  translated: "**ντ**ιβάνι"
+9948acb5082b0cd1a06b2736a24be87d82eb6bac71fe21cd959ef6aa:
+  original: s**e**t
+  translated: "**έ**λατο"
+a581933bc533176da15af3ee3dab889d22b9ffdaf08b788dbf7e4bed:
+  original: "**f**ish"
+  translated: "**φ**ως"
+58961897c8402cede4a05a1d2cc9bdbd9d51dcecae8922556524b42e:
+  original: "**g**et"
+  translated: "**γκ**ρι"
+00cda39220f4eadc1a9b68089b865be1c240be5a9e6b16402d841e2f:
+  original: "**h**oney"
+  translated: "**χ**ωριό"
+3bc53951d1b5881bc306b5aaf303a0c42f7e67ade2bc18a238b9fa0d:
+  original: sh**i**p
+  translated: "**ί**διος"
+26ae187cf83b2b350931f196fc8af13c886cd77b944e61bdd9ea7f94:
+  original: "**j**am"
+  translated: "**τζ**άμι"
+c6c501d9a327e46389282fe5127c349a4eda2fceb50b82e415d291b8:
+  original: "**k**ite"
+  translated: "**κ**ύκλος"
+dc928992a2b47d032be0ed1026f166afdc2279258ee673f47a4491a5:
+  original: "**l**amp"
+  translated: "**λ**εμόνι"
+593c72af186f220c802604069e5c83d51605c385c2954a68ef594ac8:
+  original: "**m**an"
+  translated: "**μ**ήλο"
+46a5ca0530117789cba9122b3e4b9b4707905a0a82b52d0b194f37bd:
+  original: "**n**ot"
+  translated: "**ν**ήμα"
+a5e004cf2e1ff98da571950e73bf6e667f619c1c245834cc7c2bb5d1:
+  original: cr**o**ss
+  translated: "**ό**νομα"
+4836030bec50f24cd678e5a6a91ca0f7fbd9ca919ce61e03fad6d5e9:
+  original: "**p**an"
+  translated: "**π**όρτα"
+4c4c57db6adeffa32eb5e6c45e66cbc245deae9bf53c23d46108fd3e:
+  original: "**r**un"
+  translated: "**ρ**όδι"
+0d24cc7f9a92bda8f4cb3ed201e94b608caf921583d3b3be02c74f69:
+  original: "**s**un"
+  translated: "**σ**πίτι"
+06db3e88b0d0c1f44f8b110443603e7d9797d040de52fa6b0f33ba0c:
+  original: "**t**ap"
+  translated: "**τ**ραπέζι"
+762ed8a1a4c5c5ed9c40ac0162318a87fe8da3aaa5fbad76741eaeb0:
+  original: bl**u**e
+  translated: "**ού**τε"
+37d964e44ec73e611c9ee5f53c06f1eaf9286ea9c9970967c67577be:
+  original: "**v**an"
+  translated: "**β**άζο"
+962d64b14a14a45ce7c7d4ad73fdd869e88c05f87577724ccb4f131e:
+  original: ta**x**
+  translated: "**ξ**ερό"
+755db5c14a477857d7a97572591f1ae5503fd5cff9e44558d1386535:
+  original: "**y**es"
+  translated: "**γ**ερό"
+f389d0d46539a1e04797223ed11bc02821f3f2350b55027bc1a94588:
+  original: "**z**oo"
+  translated: "**ζ**άρι"
+16ee5698ed6ec3f30265ca1eec83eb58feb1285264b8dc19f8fa01c4:
+  original: '"&{ks}" is always written as "&{x}".'
+  translated: Το «&{ks}» γράφεται πάντα ως «&{x}».
+  literals:
+    - ks
+    - x
+a145d624437e6c45072efdd57b90d578d85d8b05e02e2e34a1a5d5b5:
+  original: Pronunciation
+  translated: Προφορά
+10f627ea8aa373ace86752d5b79d845588752a20332171115c36f919:
+  original:
+    Each letter's pronunciation is meant to be as in the IPA, and it doesn't
+    match 100% the english sounds.
+  translated:
+    Η προφορά κάθε γράμματος είναι όπως στο ΔΦΑ, και δεν αντιστοιχεί 100%
+    στους ήχους των ελληνικών.
+7219147ac76161968850bd7e18be0698c375264b243a5aea0a6130b9:
+  original:
+    The English equivalent is just the closest sound in English (when the
+    word is pronounced with the received pronunciation).
+  translated: Το ελληνικό αντίστοιχο, είναι το πιο κοντινό που υπάρχει στα ελληνικά.
+20f017cebf99bbae768676bc44e409cd6baf45ee43dd105f637e96fb:
+  original: Zerita is also using the acute "`&{´}`" as an accent.
+  translated: Η ζερίτα χρησιμοποιεί επίσης την οξεία «`&{´}`» ως τόνο.
+  literals:
+    - ´
+d659f4b7abbfdcccda0bef4e13443216123cfae0c6e6461b1ffcaab3:
+  original:
+    A word without an acute will have its penultimate syllable stressed, or
+    the only syllable if the word has a single syllable.
+  translated:
+    Μια λέξη χωρίς οξεία θα είναι τονισμένη στην παραλήγουσα, ή την μοναδική
+    συλλαβή αν η λέξη έχει μόνο μία.
+a10b7ea706020226e7a7a3fa43bec2e1145e544a3749876fac7db63e:
+  original: If a single acute is present, it signifies the stressed syllable.
+  translated: Αν υπάρχει μία οξεία, αυτή δηλώνει την τονισμένη συλλαβή.
+8fd4e19b498a0cf31628e104b78ad8f8fb1f238cb8ea4205acd42ca2:
+  original:
+    For example, "&{homis}" (human or person) has the "&{o}" as the stressed
+    vowel, "&{ni}" (no) has the "&{i}" stressed, but "&{asé}" (3rd person pronoun)
+    has the "&{e}" stressed.
+  translated:
+    Για παράδειγμα, στην λέξη «&{homis}» (άνθρωπος), το «&{o}» είναι η τονισμένη
+    συλλαβή, στην λέξη «&{ni}» (όχι) ο τόνος είναι στο «&{i}», αλλά στην λέξη «&{asé}»
+    (3ο πρόσωπο στην προσωπική αντωνυμία) ο τόνος είναι στο «&{e}».
+  literals:
+    - asé
+    - e
+    - homis
+    - i
+    - ni
+    - o
+0cd1c2ab935f190ee5f8839e5235c20899e8e81c8c645885d06f7b27:
+  original:
+    Zerita is using no capitalisation of the letters, no diphthongs, and no
+    silent letters.
+  translated: Η ζερίτα δεν έχει καθόλου κεφαλαία, διφθόγγους, ή γράμματα που δεν προφέρονται.
+796ead948ed03fb2977770e62b1a1e26f754db70cd6e8d8548c21995:
+  original: "It uses the following punctuation marks:"
+  translated: "Χρησιμοποιούνται τα ακόλουθα σημεία στίξης:"
+fb0202410145911f9796a1d99eab5a13588a22ce785ad36064941f77:
+  original: Mark
+  translated: Σημείο στίξης
+b7a209b3cd58ceac646aca62aa8fa3639a5e62a311012e37651cd4af:
+  original: Name
+  translated: Όνομα
+3066f8a7f62e4e2351115b6bdbfb9f2dab2d0c0855f2f0ebe98db3ef:
+  original: Usage
+  translated: Χρήση
+a39ba35fa83103c31a0de8c65022fe4beaa746b9987584152c463c25:
+  original: Period
+  translated: Τελεία
+0d1f42007e100a4d5d9b2db759b69d8477e192a2d28284c6e50e9121:
+  original: Indicates the end of a declarative sentence.
+  translated: Δηλώνει το τέλος μιας οριστικής πρότασης.
+66ec817a9bf39eb9d956025e7e68b86569db1f2161d2ff25497f0b6b:
+  original: Semicolon
+  translated: Άνω τελεία
+39dac21919d2136b6885fb766a30d09c3b2309086fea411d9cd69f06:
+  original:
+    Connects closely related independent clauses or separates items in a complex
+    list.
+  translated:
+    Συνδέει στενά συνδεδεμένες ανεξάρτητες προτάσεις ή χωρίζει στοιχεία
+    σε μια πολύπλοκη λίστα.
+51551501395e77ffd241e36945fd3de8388953d9584d8e2b4444ba00:
+  original: Comma
+  translated: Κόμμα
+12625575297986816d1c6392e2ea6a9470fc490ca05ab0d9c4ffab1e:
+  original: Separates elements in a list, clauses, or phrases within a sentence.
+  translated: Χωρίζει στοιχεία σε μια λίστα, προτάσεις ή φράσεις μέσα σε μια πρόταση.
+dfd362edcbc4f113c01f505b915aa5c5c7f218b1e897c96ddb175fc8:
+  original: Colon
+  translated: Διπλή τελεία
+278f0e9ee5dbba2d2d2bdf15b5f771da90b4754457f86ef09a42e28f:
+  original: Introduces a list, quotation, or explanation.
+  translated: Εισάγει μια λίστα, μια παράθεση ή μια εξήγηση.
+9381f87cd033fd7fc5f116c3cd7b305d587df54b243926a7a842813f:
+  original: Exclamation Mark
+  translated: Θαυμαστικό
+0c5bf98490b71376b153d9d1d7c72ede96a167fb69a263689e2b513e:
+  original: Expresses strong emotion or a command.
+  translated: Εκφράζει ένα ισχυρό συναίσθημα ή μια εντολή.
+6c6a5e1d61bd5f668dc952d87ff2670578d5fd38944374fa0afbd3fc:
+  original: Question Mark
+  translated: Ερωτηματικό
+f9ef7a548bdea02b600707523611db1715bdca854bd7eb655ba82dbb:
+  original: Indicates a question.
+  translated: Δηλώνει μια ερώτηση.
+5cc296b44fdfc12416f7c121ad984d568dc6dccc16e232e4785335d7:
+  original: Quotation Marks
+  translated: Εισαγωγικά
+be05b7d4705de12918be7101d328677cfaf3480d49a65b48599e3a6c:
+  original: Encloses direct speech, quotations, or titles of works.
+  translated: Περικλείουν άμεσο λόγο, παραθέσεις ή τίτλους έργων.
+6ea6858c343973911e67787976402b848d97c9f704428e9452a7a552:
+  original:
+    Zerita uses hyphens for words that form a single lexeme, and apostrophes
+    for contractions.
+  translated:
+    Η ζερίτα χρησιμοποιεί παύλες για λέξεις που σχηματίζουν ένα μόνο λεξικό
+    και απόστροφους για τις συντομογραφίες.
+4b4f37846c61fca996e21668dcbf6f1f3e285f7a2d5328105d526563:
+  original:
+    A single quote can be used instead of an apostrophe in typing, for easier
+    typing.
+  translated:
+    Μπορείτε να χρησιμοποιήσετε και την μονά εισαγωγικά αντί για απόστροφο
+    για ευκολία στην πληκτρολόγηση.
+73926e90be70b547206ce2ea1f02a408fcfbb4eb688aa7b136d256da:
+  original: Punctuation and quotes
+  translated: Εισαγωγικά και άλλα σημεία στίξης
+3d3977c6a1c9a406b2248263a2398ff1fa6f5b657672d3ab0a945c94:
+  original:
+    Punctuation marks should be placed only outside the double quotes if they
+    both the sentence inside the quotes and outside of it end at the same time.
+  translated:
+    Τα άλλα σημεία στίξης μπαίνουν μόνο εκτός των εισαγωγικών, αν θα πρέπει
+    να μπουν και πριν και μετά από αυτά.
+c4fd05206821aa801aa65368d1fa7349e1303f4244ae29dd359ad549:
+  original:
+    Names that come from other languages keep the original spelling if they
+    are written in the latin alphabet, or they have a standard latinisation, and they
+    written phonetically otherwise.
+  translated:
+    Τα κύρια ονόματα από άλλες γλώσσες γράφονται με την αρχική ορθογραφία,
+    αν είναι γραμμένα στο λατινικό αλφάβητο, ή υπάρχει κάποιος στανταρ τρόπος μεταγραφής,
+    αλλιώς γράφονται φωνητικά.
+756216d1a144b14083621a0f8268346862578b74f60e001fbc6bb6a7:
+  original:
+    Even though they keep the spelling, they are still pronounced as close
+    as possible to the original language.
+  translated:
+    Ακόμα και αν διατηρούν την ορθογραφία τους, προφέρονται όσο το δυνατόν
+    πιο κοντά στην αρχική γλώσσα.
+51078fe9eda2fb83c38ec9624291075c91fa6d5a38bd0641c6d6fc65:
+  original:
+    As an aid to the reader, a name that comes from another language can be
+    transliterated in Zerita inside square brackets, the first time it appears in
+    a passage, for example "&{george[jorj]}".
+  translated:
+    Για την διευκόλυνση του αναγνώστη, την πρώτη φορά που συναντάται ένα
+    όνομα σε ένα κείμενο, μπορεί να αποδοθεί φωνητικά, για παράδειγμα «&{george[jorj]}».
+  literals:
+    - george[jorj]
