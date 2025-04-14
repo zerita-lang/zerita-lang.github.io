@@ -1,0 +1,132 @@
+%YAML 1.2
+---
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: Ζερίτα
+9771c59cccbc26f4ef4ac11838269e756ee607bd8676b431ed9989f5:
+  original: Zerita is a feature-rich, expressive conlang, without any exceptions.
+  translated:
+    Η ζερίτα είναι μια κατασκευασμένη γλώσσα με πολύ πλούσια χαρακτηριστικά,
+    εκφραστική, χωρίς εξαιρέσεις.
+ce4fbfd771d5bf6bc65e080a95c27918dae67c3a81e87bfd5f96f72f:
+  original:
+    It is a VSO language, inspired by other latin-based languages for the
+    vocabulary, the writing system, and the pronunciation.
+  translated:
+    Το συντακτικό της ακολουθεί την σειρά Ρήμα - Υποκείμενο - Αντικείμενο,
+    και είναι εμπνευσμένη από άλλες λατινογενείς γλώσσες όσον αφορά το λεξιλόγιο λεξιλόγιο,
+    το σύστημα γραφής και την προφορά.
+b16d4c92d9e634f8a849e509e8b72452dcb1dbed24f24d2d5808ceaf:
+  original:
+    As such, it uses the latin alphabet to be written, it has 1-1 correspondence
+    between the written and the spoken form, and is meant to be easy for machines
+    to understand.
+  translated:
+    Ως εκ τούτου, χρησιμοποιεί το λατινικό αλφάβητο για να γραφτεί, έχει
+    μια 1-1 αντιστοιχία μεταξύ του γραπτού και του προφορικού τύπου, και είναι σχεδιασμένη
+    για να είναι εύκολη να την καταλάβουν οι υπολογιστές.
+bbd3cf8aaa82e876756c1da62054204f6951f36009121150af3b39bc:
+  original:
+    Expressiveness comes with a steeper learning curve, but the absence of
+    exceptions make up for it.
+  translated:
+    Οι μεγάλες εκφραστικές δυνατότητες δημιουργούν αυξημένες δυσκολίες στην
+    εκμάθηση, αλλά η απουσία εξαιρέσεων το αναπληρώνει.
+36c6c5fe72836f2188c908ebf39ad1afa40d30311c543f2b9524d892:
+  original: Brief overview of zerita
+  translated: Μια μικρή σύνοψη της ζερίτα
+a4260a6fc5d974e48ff0add5c2137a89398e15ecfc64846a3e44ba3c:
+  original: Zerita is meant to be a highly regular language, avoiding exceptions.
+  translated:
+    Η ζερίτα προορίζεται να είναι μια εξαιρετικά κανονική γλώσσα, αποφεύγοντας
+    τις εξαιρέσεις.
+e15e4b653534ac55d017c15b70d589ddd74a27c9b5bdbf1f12a50b57:
+  original:
+    It also doesn't try to innovate on the phonetics, writing, and vocabulary,
+    as these are thought as the less substantial parts of a language.
+  translated:
+    Επίσης, δεν προσπαθεί να καινοτομήσει στη φωνητική, τη γραφή και το
+    λεξιλόγιο, καθώς αυτά θεωρούνται ως τα πιο επουσιώδη μέρη μιας γλώσσας.
+fcb1a4f9dab405a5b7af4915bebe4a06e0ca96ef07c95f30deda0984:
+  original: Avoiding exceptions also makes it easy for machine parsing and science.
+  translated:
+    Η αποφυγή εξαιρέσεων διευκολύνει επίσης την ανάλυση της από υπολογιστές
+    και τον επιστημονικό λόγο.
+67abb3948d079d0bc5100f91780d97b0e8c386bd5b81ac3c41cd70e6:
+  original: Zerita is easy, but extremely expressive.
+  translated: Η ζερίτα είναι εύκολη, αλλά εξαιρετικά εκφραστική.
+34a707d2d5526d50e2606754b981a2ad9582cdab421a76898302b45b:
+  original:
+    The design choice is always to opt for the more expressive choice, even
+    at the cost of making it more complex, but not more complicated.
+  translated:
+    Κατά τον σχεδιασμό της πάντα γίνεται η πιο εκφραστική επιλογή, ακόμη
+    και αν την κάνει πιο περίπλοκη, αρκεί να μην την κάνει πιο μπερδεμένη.
+fa50f679283d89d096fd51a1ca3af25d631a02c1c07425c8dc42a9ba:
+  original:
+    One other choice that is present throughout zeritan rule is the information
+    flow.
+  translated:
+    Μια άλλη επιλογή διαπερνά όλο τον σχεδιασμό της ζερίτα αφορά την ροή
+    των πληροφοριών.
+a73ec5266154fd6b6de3e42e80259f45eddfd616223131cf9628bd22:
+  original:
+    Zerita is a language that is meant to be literal, and express the necessary
+    information.
+  translated:
+    Η ζερίτα είναι μια γλώσσα που προορίζεται να είναι κυριολεκτική και
+    να εκφράζει μόνο τις απαραίτητες πληροφορίες.
+989f4f72cf5634b0e4f066982b242649de1b8437d8e5a6c9f6bccfba:
+  original:
+    For example, in English, a sentence like "The door was red", is strongly
+    associated with the past state.
+  translated:
+    Για παράδειγμα, στα ελληνικά, μια πρόταση όπως «Η πόρτα ήταν κόκκινη»,
+    είναι έντονη η έννοια του παρελθόντος.
+cc7956c636e45c0c787e3df13f62a48023809ed9aea98ee65634d49e:
+  original:
+    The speaker most probably means that the door was read in the past, but
+    not any more.
+  translated:
+    Ο ομιλητής πιθανότατα εννοεί ότι η πόρτα ήταν κόκκινη στο παρελθόν,
+    αλλά όχι πια.
+74d2ce4acf22fda4952678686a3624857407f638346254bc5697f103:
+  original:
+    Contrary, in Zerita, "&{sive ta portis ruji}" means that the door was
+    red, but for the present state of the colour door, you cannot infer anything.
+  translated:
+    Αντίθετα, στη ζερίτα, η πρόταση «&{sive ta portis ruji}» σημαίνει ότι
+    η πόρτα ήταν κόκκινη, αλλά για το τωρινό χρώμα της πόρτας, δεν μπορείτε να συμπεράνετε
+    τίποτα.
+  literals:
+    - sive ta portis ruji
+80553790ac1871b2c4a5b6f3116cf38fb532526772cbcb2ef25ea9b9:
+  original:
+    Even though zerita is using latin-based languages for the vocabulary,
+    the writing system, and the pronunciation, this isn't true for the grammar and
+    the syntax.
+  translated:
+    Παρόλο που η ζερίτα βασίζεται στις λατινικές γλώσσες για το λεξιλόγιο,
+    το σύστημα γραφής και την προφορά, αυτό δεν ισχύει για τη γραμματική και τη σύνταξη.
+9b1a1de178b55e4f7f914ea957e18e52a6803209b1b86d06083ed027:
+  original:
+    Zerita is using all natural languages and conlangs as inspiration, and
+    is trying to be innovative on these two.
+  translated:
+    Η ζερίτα χρησιμοποιεί όλες τις φυσικές και κατασκευασμένες γλώσσες για
+    έμπνευση, και προσπαθεί να είναι καινοτόμος σε αυτά τα δύο.
+da55a5973f953deef9eaa5d37b25598d1b8659dc85d4e937eaaf10f2:
+  original: Features of zerita
+  translated: Χαρακτηριστικά της ζερίτα
+53b6e4c22f0dc746df4fede35c9ffb0be69517541d7d5c28b13631f7:
+  original: "Zerita has some unique (or rare) features:"
+  translated: "Η ζερίτα έχει μερικά μοναδικά (ή σπάνια) χαρακτηριστικά:"
+bf76327e4daf9a3944fe74e9600a1bc49ee514439a020ddf3c66bc28:
+  original: 4 person system
+  translated: ρήματα σε 4 πρόσωπα
+f335e9b7a928b2f11b1624685533fa39676ab6eeedc665202d973ac9:
+  original: timeless tenses
+  translated: άχρονοι χρόνοι στα ρήματα
+c779086a44814a7518b84e427e759030cad3fd24e7d2d0ec74617fff:
+  original: factual conditionals in the past
+  translated: πραγματικός υποθετικός λόγος στο παρελθόν
