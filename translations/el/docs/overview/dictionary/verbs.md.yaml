@@ -1,0 +1,109 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+45faaef5a10e0788fc31717d1f8897dd07cd281743244f2fd9516f9f:
+  original: Verbs
+  translated: Ρήματα
+ddf2f14b2f486ff50f57529b978a6a4f286d57640f5471303c7724f2:
+  original: Zerita
+  translated: Ζερίτα
+78b55f7b75beda6e01cb210a70c46faeac138eb44a8e30d5eb9d3ab6:
+  original: English
+  translated: Ελληνικά
+7b4d0e7317287b290399b4b951f234fa917540fdf7e1d389415d845a:
+  original: love
+  translated: αγαπάω
+a0a34bc7f39738272e5e6636dcdc3b27cd545a4c314c0617554fedd2:
+  original: boil
+  translated: βράζω
+a09e721fd0f76b150cbf0670ce9ea7842e87b6a6b2ae7fb846fa284a:
+  original: give
+  translated: δίνω
+b4fe2b0a6130d0ffbbcbd2f14d7326c0990d01c7fd327a86170eff29:
+  original: doubt
+  translated: αμφιβάλλω
+16f9762a93b01b22babe1ef5f0b3a7cf3f4db7c23f761f1dc9f3797e:
+  original: eat
+  translated: τρώω
+02fb022e342e01cc45c6066c5d11e60505e3ae932bd9972069e1a3ef:
+  original: buy
+  translated: αγοράζω
+e91ef4e58a7643f08fa24a4d0cb1434ea33e3f773796ad143766817a:
+  original: hope
+  translated: ελπίζω
+ac42c55ec5083d9918b180f1f2483bb70a14fadeb0e5488ed6558223:
+  original: like
+  translated: αρέσω
+b2f7e9920a8a0efe6e4b31539c489df14ca330e7c40670ca32595e37:
+  original: believe
+  translated: πιστεύω
+1a0bfa6bcb95bfb0eb1af77e137e8fd0608ca81a44fe3468d94d33e5:
+  original: freeze
+  translated: παγώνω
+ceb1bff53b0e16b516c464ed5282ff5c8deea2d8f9c20061b4b1110e:
+  original: command
+  translated: διατάσσω
+b5742516a1a930f471a017d91000954068705a5372138b1e687509ea:
+  original: play
+  translated: παίζω
+9274d53ff2777d0584fa1d813c1bcd32ba62202d94eec7ba6f45c603:
+  original: sing
+  translated: τραγουδάω
+c10d0dbb09d06ed90f6e4bddfd15b08d977d6e959028bc181571e0fc:
+  original: infer
+  translated: συμπεραίνω
+456642970e287cba323a39c1c6926b4fceff510b42631e07cb383055:
+  original: read
+  translated: διαβάζω
+9948ce1f828705a859b681764603bf1e8a252fd10ac17a8535fba963:
+  original: stay
+  translated: μένω
+c30fe5230b5537b1bfe480805559503341efcab6fd9301c84ca394a4:
+  original: die
+  translated: πεθαίνω
+6e55b7a9ed92e6359f7f74b94e62fff99cb9ed1404d9d326a5b84274:
+  original: snow
+  translated: χιονίζει
+a55d2153e8ed16af3dcf8563455565b417f329a530e4896bc86f8804:
+  original: must
+  translated: πρέπει
+b8dada748d906d4cfc0776189cc14822b5ff8775b8f7d37f74babf26:
+  original: smell
+  translated: μυρίζει
+07b420ac7f841c822b62ec90f45a5a98931ae0abec5e4063606395b5:
+  original: wish
+  translated: εύχομαι
+f1d5de48de11b79f92cef2de49f3c145bf433448a6bbb2278f115f16:
+  original: lose
+  translated: χάνω
+1e38eac4c3fbe0449b7f2423eb573a7a8a6c50bd1e05b74dce96347f:
+  original: rain
+  translated: βρέχει
+bd5e3082136e64f63213b14eb6bc793521512f0f5f4596d7c6e89e83:
+  original: can
+  translated: μπορώ
+fb472b78641df6354d34b5e8cba4d3c383dcac8c3c6977d848549abc:
+  original: drink
+  translated: πίνω
+26bc209b036ef88fa617d2c06c6157045508d9924ca09edb71d8dfb2:
+  original: laugh
+  translated: γελάω
+d15f8623c919452a5decd2e94e6dfb6316546c0ceb5cdfeeb3d8d761:
+  original: be
+  translated: είμαι
+93356b32cb7e215ccb76d7ecfbbedbda90590545189a79a9c9b945c7:
+  original: serve
+  translated: υπηρετώ
+9c2ceef241bc128fc787a61364b4e5561bd73db30832ef84e7a3f883:
+  original: see
+  translated: βλέπω
+720299c9bc78293fea4bb30c52e603e71d668bcd2ed93a8b608ccc20:
+  original: win
+  translated: κερδίζω
+6fb76b0a78cc71b672bf52705613eda1fbc81fc48f52542445b7238f:
+  original: live
+  translated: ζω
+82b0b6c3192fc0a4a9c655f3826804fc86cd19ccf6ad2f2886d0895b:
+  original: want
+  translated: θέλω
