@@ -1,0 +1,26 @@
+%YAML 1.2
+---
+731a7f0bebd5040dbec4da3672d85ae8bd70c7feb4ec294ea7e878b4:
+  original: Vocabulary
+  translated: Λεξιλόγιο
+0aeebec430a5cba1aade6760aad06ae72f54ca52327b807ca5d62d94:
+  original: This is only a simple vocabulary section.
+  translated: Αυτή είναι μια απλή ενότητα λεξιλογίου.
+86348a74813f53db7d7ec5ab3fb054d8057397b2ff43f25a6c43d23d:
+  original:
+    It's separated in [adjectives][&{adjectives}], [nouns][&{nouns}], [verbs][&{verbs}],
+    [connections][&{connections}], and [adverbs][&{adverbs}].
+  translated:
+    Είναι χωρισμένο σε [επίθετα][&{adjectives}], [ουσιαστικά][&{nouns}],
+    [ρήματα][&{verbs}], [συνδέσεις][&{connections}] και [επιρρήματα][&{adverbs}].
+  literals:
+    - adjectives
+    - adverbs
+    - connections
+    - nouns
+    - verbs
+4bac9ed2af720d73a94670c87b072f09373d661d810a2405aa7ddf2a:
+  original: There is also a [colour][&{colours}] section.
+  translated: Υπάρχει επίσης μια ενότητα [χρωμάτων][&{colours}].
+  literals:
+    - colours
