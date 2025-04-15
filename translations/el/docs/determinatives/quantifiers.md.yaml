@@ -1,0 +1,105 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+881e4f8a07fd342bdaa1b082d857fab22c1a8d17bab0252678fb3c4a:
+  original: Quantifiers
+  translated: Ποσοδείκτες
+88a93868eb40469b6a73b347723f189295aa3b5b951f0662a0a809b9:
+  original: Quantifiers are determinatives that indicate the quantity of a noun.
+  translated: Οι ποσοδείκτες είναι προσδιοριστικά που δηλώνουν την ποσότητα ενός ουσιαστικού
+d460b8961e80fd16f161bfe07391e0be2ad3436bd55a79e74fd9b4fa:
+  original: The nullar and collective numbers make the "all" and "none" redundant.
+  translated:
+    Ο μηδενικός και ο συλλογικός αριθμός καθιστούν το «όλοι» και το «κανένας»
+    περιττά.
+522486fe845b9ba39f86fe2e113673816f0ff3392fea00fa79f9c479:
+  original: "The quantifiers are:"
+  translated: "Οι ποσοδείκτες είναι:"
+5d0e17c3d1a2ae343d2b7fb6da697ff43a4e8e3a90cf405ac5582746:
+  original: a few
+  translated: λίγα
+5bd60fabaaf289db8f9096fcf6cadc19ffd054e6f7e15f3f97080803:
+  original: some (can be one)
+  translated: μερικά (μπορεί και να είναι ένα)
+efc45c0b32b876716d91549a0a2d18c80353b617de8b34075c78a823:
+  original: some (cannot be one)
+  translated: μερικά (δεν μπορεί να είναι ένα)
+770bc32f1af06809a65f957f86c0e35870179bbf825081fd97779697:
+  original: many
+  translated: πολλά
+17b6a8f95ae7c5013f925c45157075eae8a743d91dfb9eb17093e1b5:
+  original: each
+  translated: έκαστος
+b52f8d52b8cf0e73c6da6b999d623efea996247724eb1a4f11119aeb:
+  original:
+    '"aliame", even though it can be one, it is used with the plural form
+    of the noun.'
+  translated:
+    Το «aliame», αν και μπορεί να είναι ένα, χρησιμοποιείται με το ουσιαστικό
+    στον πληθυντικό.
+f56def10a5ab9697d213a6aca97a0efbf31a1bc2d35d0caf3bf14863:
+  original: '"kiska" is used with the singular form of the noun.'
+  translated: Το «kiska» χρησιμοποιείται με το ουσιαστικό στον ενικό.
+9ba444b4a474ae9903eafb87a0225662ff17e3acdfceaa0e561f0f29:
+  original: |-
+    "kiska" can also be used with the collective form of the noun,
+    to emphasize both the individual and the group.
+  translated: |-
+    Το «kiska» μπορεί επίσης να χρησιμοποιηθεί με το ουσιαστικό στον συλλογικό,
+    για να τονίσει τόσο την ατομικότητα όσο και το ομαδικότητα.
+cf57d96bf101e4b6f1aa6f9aee575586bc2ac6079077c1e9c28f7efb:
+  original: |-
+    The quantifiers cannot be used with uncountable nouns,
+    as the number already indicates the quantity.
+  translated: |-
+    Οι ποσοτικοί δείκτες δεν μπορούν να χρησιμοποιηθούν με μη μετρήσιμα ουσιαστικά,
+    επειδή ήδη ο αριθμός δείχνει την ποσότητα.
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+c31c8083d39d90b4d4004d725302ed00988414c58410de9f84b678c8:
+  original: every child is eating an apple
+  translated: κάθε παιδί τρώει ένα μήλο
+d50b7182876f888154365419a332052297adbc8c21c378311e11bca6:
+  original: explanation
+  translated: εξήγηση
+cf64118f308304d574957ca07f38d45b3fef883a577ce80d50196d76:
+  original: |-
+    "puereris" is the collective form of the noun,
+          and the verb is in the collective form.
+  translated: |-
+    το «puereris» είναι το ουστιαστικό στον συλλογικό αριθμό,
+          επομένως και το ρήμα είναι στον ίδιο αριθμό.
+90ea392eca3d835c9222a4619826b532e33fd69409efde0a69ca1f5e:
+  original: The emphasis is on the children as a group.
+  translated: Η έμφαση είναι στα παιδιά ως μια ομάδα.
+e9d43630701fc77b49276a9ab00961d783b84cd92335300e76603244:
+  original: each child is eating an apple
+  translated: κάθε παιδί τρώει ένα μήλο
+d48a43fa8c14a2d173a71726fa261a53bde68f5051a70dd11f8ecf4d:
+  original: |-
+    "kiska" is used with the singular form of the noun,
+          and the verb is in the singular form.
+  translated: |-
+    το «kiska» χρησιμοποιείται με το ουσιαστικό στον ενικό,
+          οπότε και το ρήμα είναι σε ενικό.
+77caf4bb3b096748abdeb7fe39b0235714f8d9e656bcb5b7289265a9:
+  original: The emphasis is on the individual child.
+  translated: Η έμφαση δίνεται στο μεμονωμένο παιδί.
+b8f34dfde55d5256f78b201e1d68fb82be9e3014e43761ee72808e04:
+  original: each and every child is eating an apple
+  translated: κάθε παιδί τρώει ένα μήλο
+9c473aa2280f3d7ad9b573b42acf94cbc7e79b6dbcd3c85a6dadc342:
+  original: |-
+    "kiska" is used with the collective form of the noun,
+          and the verb is in the collective form.
+  translated: |-
+    το «kiska» χρησιμοποιείται με το ουσιαστικό στον συλλογικό,
+          οπότε και το ρήμα είναι σε συλλογικό.
+1cc574161470a9c1cf899224e6689b0a6406456cdbd1f95f241358f0:
+  original: The emphasis is both on the individual child, and the children as a group.
+  translated: Η έμφαση δίνεται τόσο στο μεμονωμένο παιδί όσο και στα παιδιά ως ομάδα.
