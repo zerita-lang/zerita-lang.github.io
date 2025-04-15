@@ -1,0 +1,48 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+051507fc78ec9bda5aebe1dac46156ff681ab0507cfbe66b8b2cec9d:
+  original: Nouns
+  translated: Ουσιαστικά
+80dd1a7e97f6bdf2f3a408b28ea0c44d4c695c97cfd13e8b95d59516:
+  original:
+    Nouns is the most central part of the speech in order to understand the
+    zerita language.
+  translated:
+    Τα ουσιαστικά είναι το πιο κεντρικό μέρος της ομιλίας για να κατανοήσουμε
+    την ζερίτα.
+1022187970a9bb380f234edf26e49a4ac1a6999a125dd9409982ae82:
+  original:
+    They have a lot of the intricacies of the language, therefore we will
+    start with them.
+  translated:
+    Έχουν πολλές από τις ιδιαιτερότητες της γλώσσας, γι' αυτό θα ξεκινήσουμε
+    με αυτά.
+0b4d4d70c3a0acdcc07e74e71116229753a7dea836064d364e61e80a:
+  original:
+    Nouns in Zerita have 4 [forms][${form}], 5 [numbers][${number}] and 5
+    [cases][${case}].
+  translated:
+    Τα ουσιαστικά στην ζερίτα έχουν 4 [μορφές][${form}], 5 [αριθμούς][${number}]
+    and 5 [πτώσεις][${case}].
+  literals:
+    - case
+    - form
+    - number
+a771be1c165f3bd88e03bbefd20915c7c3cc982aeaa46523e25d4051:
+  original:
+    "The order of the prefixes and suffixes is: gender - base - form - number
+    - case."
+  translated:
+    "Η σειρά των προθεμάτων που ακολουθούν το ουσιαστικό είναι η εξής: φύλο
+    - θέμα - μορφή - αριθμός - πτώση."
+9e6014b9638e440fd854e3cfb7f7becd4ff67c4369af228ffb5eb4fe:
+  original: |-
+    The [gender][${gender}], form, and number are the semantic parts of a zeritan noun, and the case is
+    purely syntactical.
+  translated:
+    Το [φύλο][${gender}], η μορφή, και ο αριθμός είναι τα σημασιολογικά
+    κομμάτια του ουσιαστικού, ενώ η πτώση είναι καθαρά συντακτικό.
+  literals:
+    - gender
