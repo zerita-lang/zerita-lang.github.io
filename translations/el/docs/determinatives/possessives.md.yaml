@@ -1,0 +1,69 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+3cd841174088a6b779bcfc3ac18c8b6924b693b8642a29336627d3d8:
+  original: Possessives
+  translated: Κτητικά
+4e9c2c9beb6195f5b173ec8310b1770fa5b106a9e4a59735a92f9d51:
+  original: Zerita is using the preposition "${de}" or "${du}" to indicate possession.
+  translated:
+    Η ζερίτα χρησιμοποιεί την πρόθεση «${de}» ή «${du}» για να δηλώσει την
+    κατοχή.
+  literals:
+    - de
+    - du
+a723243331b07b416c74adfda61203ddeeced331c2cc4fda7546c359:
+  original: The possessive is used as a determiner, and it is placed before the noun.
+  translated:
+    Το κτητικό χρησιμοποιείται ως προσδιοριστικό και τοποθετείται πριν από
+    το ουσιαστικό.
+7e02df7700c7eb5226a7f9811fbab39d2939f045c646cacc2081d6de:
+  original: |-
+    Chaining possessives is possible, and the order of possessives is that the possessor comes
+    before the possessed.
+  translated: |-
+    Πολλαπλά κτητικά στη σειρά είναι δυνατόν να υπάρξουν και η σειρά των κτητικών είναι ο κάτοχος
+    να τοποθετείται πριν από το κατεχόμενο αντικείμενο.
+37e24e5d22b34baab549ee6a95df925091cf267065b140b56d5487c3:
+  original: |-
+    The difference between "${de}" and "${du}" is that "${de}" is for inalienable possession,
+    while "${du}" is for alienable possession.
+  translated: |-
+    Η διαφορά μεταξύ «${de}» και «${du}» είναι ότι το «${de}» είναι για την ακατάσχετη κατοχή,
+    ενώ το «${du}» είναι για την κατασχέσιμη κατοχή.
+  literals:
+    - de
+    - du
+163336d404967e08e38c43c58abe54dbba5a560ca930417901274232:
+  original: |-
+    Inalienable possession is when the possessor is an integral part of the possessed,
+    while alienable possession is when the possessor is not an integral part of the possessed.
+  translated: |-
+    Η ακατάσχετη κατοχή είναι όταν ο κάτοχος είναι αναπόσπαστο μέρος του κατεχόμενου,
+    ενώ η κατασχέσιμη κατοχή είναι όταν ο κάτοχος δεν είναι αναπόσπαστο μέρος του κατεχόμενου.
+71cc77182b04854eafd44a01fde9979822f1bbb452712fd82d9c2cdf:
+  original:
+    There are no possessive pronouns in zerita, and they are expressed by
+    «${de}» or «${du}» + pronoun.
+  translated: |-
+    Δεν υπάρχουν κτητικές αντωνυμίες στη ζερίτα και εκφράζονται με
+    «${de}» ή «${du}» + αντωνυμία.
+  literals:
+    - de
+    - du
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+30c701d4158c3a8252cd6e79352f101dfbad77a6d1b62566974f9882:
+  original: My book is big.
+  translated: Το βιβλίο μου είναι μεγάλο.
+c56c7285c31d4b201a6ccabf6d42e264582cc14a4d241ace87fad7b8:
+  original: The book is mine.
+  translated: Το βιβλίο είναι δικό μου.
+05acbada83a90a65de3e1ef5675ca5b780a62a873c051190528d475e:
+  original: The father of my child is Adam.
+  translated: Ο πατέρας του παιδιού μου είναι ο Αδάμ.
