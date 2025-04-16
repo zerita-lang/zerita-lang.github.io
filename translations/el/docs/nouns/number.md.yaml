@@ -1,0 +1,161 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+2ed42a7153a8c16721f5d41c2318e7a7fce24d46d934f97b3b9ae520:
+  original: Numbers are formed by adding a suffix to the root word.
+  translated: Οι αριθμοί σχηματίζονται προσθέτοντας ένα επίθημα στη ρίζα της λέξης.
+b2f8c7bb4b497bc40a030415ad3320d7e8136eaf0e2370683ce7e773:
+  original:
+    The semantic meaning of the suffix is different depending whether the
+    noun is countable or uncountable.
+  translated:
+    Η σημασιολογική έννοια του επιθήματος είναι διαφορετική ανάλογα με το
+    αν το ουσιαστικό είναι μετρήσιμο ή μη μετρήσιμο.
+29faeddb1c90e830b1dab1fc79e89907d156476b090fb39a1514ed09:
+  original: Countable nouns
+  translated: Μετρήσιμα ουσιαστικά
+cf3df74ba4dd5ca5a8df1aeffc15d5b20f89683c2cd2652606220f7f:
+  original:
+    "Countable nouns are nouns that can be counted by an integer: apples,
+    kilograms, humans."
+  translated:
+    "Μετρήσιμα ουσιαστικά είναι τα ουσιαστικά που μπορούν να μετρηθούν με
+    έναν ακέραιο αριθμό: μήλα, κιλά, άνθρωποι."
+b0b21ab6d17c0a115e1c419ae450b4ff09c01e9acab20d4d8c784287:
+  original: 'Using "${pom}", which is the word for "apple", the suffixes are:'
+  translated:
+    "Χρησιμοποιώντας τη λέξη «${pom}», που είναι η λέξη για το «μήλο», τα
+    επιθήματα είναι:"
+  literals:
+    - pom
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+05f8ed4dccef7ba6bf7fc637346a4a362d9991c2828b1a284e08ae6c:
+  original: "No suffix, used for one item:"
+  translated: "κανένα επίθημα, χρησιμοποιείται για ένα αντικείμενο:"
+d874792d97c9b9be7a1d452bcf93306920f6add202ba2f9f55436738:
+  original: an apple
+  translated: ένα μήλο
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
+811236a28a05219e89718f177e1a461f8d9522fd32c5d602b9d78c4b:
+  original: '"${-ed}" suffix, used for less than one:'
+  translated: "«${-ed}», χρησιμοποιείται για λιγότερο από ένα αντικείμενο:"
+  literals:
+    - -ed
+70cca3ccc8ff6ca2078b3b44e12d9f62225006bce0d4a8071982a81c:
+  original: part of an apple
+  translated: ένα κομμάτι από μήλο
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+f8e93d2034ecf4a3d2db9e74a773d1ad2a9defedaf59396963612139:
+  original: '"${-es}" suffix, used for more than one item:'
+  translated: "«${-es}», χρησιμοποιείται για πάνω από ένα αντικείμενο:"
+  literals:
+    - -es
+d6d5fcfa1f4215580f7fb6791da63014149d2f558bdf3d3e07851b4a:
+  original: apples
+  translated: μήλα
+319b6b96a59923f7eeec85f739b310feace39817933da52bacdcd034:
+  original: Nullar
+  translated: Μηδενικός
+4140ef4208e2032ed2ad9ead3dc3cf325719629d7969f0b8f655caaf:
+  original: '"${-en}" suffix, used for no items:'
+  translated: "«${-en}», χρησιμοποιείται για κανένα αντικείμενο:"
+  literals:
+    - -en
+f2e89cf09ac9d52763740e1c5dc6155e5ae44cca061add69bbfc0e79:
+  original: no apples
+  translated: κανένα μήλο
+d17c8fcf519d514b52bfbc91168cb52f4643f7b896f14b8ec6c1a15d:
+  original: Collective
+  translated: Ολικός
+8a62f16f5b595d072f773bcbdd666da97ee4aae557976b4354d8c2b2:
+  original: '"${-er}" suffix, used for all items:'
+  translated: "«${-er}», χρησιμοποιείται για όλα τα αντικείμενα:"
+  literals:
+    - -er
+ff11108e1e99ae1f9bf7af90e9112a3a15be7977e220df7b2d130d63:
+  original: all apples
+  translated: όλα τα μήλα
+00b5f5d9aa2590b513acbb0ad4814b208be19a45ff77c9b0b4205d69:
+  original: |-
+    Singular is used for exactly one, fractional for strictly between zero and one, zero for none, and any
+    number more than 1 is plural (even when it's not full two items).
+  translated: |-
+    Ο ενικός αριθμός χρησιμοποιείται για ακριβώς ένα αντικείμενο, ο κλασματικός για αυστηρά μεταξύ
+    μηδενός και ενός αντικειμένου, ο μηδενικός για κανένα και για οποιοδήποτε αριθμός μεγαλύτερο από 1
+    χρησιμοποιείται πληθυντικός (ακόμα και όταν δεν είναι πλήρως δύο αντικείμενα).
+98f050c090f21dc2751709b59b30de53f128cd8d759af6256a52f299:
+  original:
+    Negative numbers use the number that would have been used by the number
+    with the same absolute value.
+  translated:
+    Οι αρνητικοί αριθμοί χρησιμοποιούν τον αριθμό που θα είχε χρησιμοποιηθεί
+    από τον αριθμό με την ίδια απόλυτη τιμή.
+9419e1445f83d8606ee683280d3da27837b2d32ea97532fa3cc31a45:
+  original: Uncountable nouns
+  translated: Μη μετρήσιμα ουσιαστικά
+124982fc17817ba1f20cf90f698aaf49fec5b93418527800c26be2a2:
+  original:
+    "Uncountable nouns are nouns that they don't have units: water, money,
+    love."
+  translated:
+    "Μη μετρήσιμα ουσιαστικά είναι τα ουσιαστικά που δεν έχουν μονάδες μέτρησης:
+    νερό, χρήματα, αγάπη."
+8d78d2899380de4f5a2bd5bcabf3d841fb5f7ccce8e65a3cda4997c9:
+  original:
+    'Using "${amor}", which is the word for "love", the suffixes and their
+    meanings are:'
+  translated:
+    "Η λέξη «${amor}», που είναι η λέξη για την «αγάπη», τα επιθήματα και
+    οι σημασίες τους είναι:"
+  literals:
+    - amor
+c85d239cd7ef1bfc3d39ca2888156646eb756a3026f6ec7d3ebfc823:
+  original: "No suffix, used when no quantity is specified:"
+  translated: "κανένα επίθημα, χρησιμοποιείται όταν δεν καθορίζεται ποσότητα:"
+7b4d0e7317287b290399b4b951f234fa917540fdf7e1d389415d845a_noun:
+  original: love
+  translated: αγάπη
+  classes:
+    - noun
+d1767c736a178de7ce31d241d3fb88c13ea9f137622650596c6eda26:
+  original: '"${-ed}" suffix, used for a small quantity:'
+  translated: "«${-ed}», χρησιμοποιείται για μια μικρή ποσότητα:"
+  literals:
+    - -ed
+1f3a8384b988ea341bdb244d34280c7805e4354deb5770e16df24bcf:
+  original: a little bit of love
+  translated: λίγη αγάπη
+4899d93bb56378525e0d5ddcc20a381741fe81f590bbbe9fc97a27e2:
+  original: '"${-es}" suffix, used for a large quantity:'
+  translated: "«${-es}», χρησιμοποιείται για μια μεγάλη ποσότητα:"
+  literals:
+    - -es
+023cd168127e1e7e0966f67431f83f7be37472a334af2a3f00a2cf77:
+  original: whole lotta love
+  translated: πολλή αγάπη
+9450247abe5a4b228348a4a5908caa0ba2c7f0547c92787998fea255:
+  original: '"${-en}" suffix, used for the absence:'
+  translated: "«${-en}», χρησιμοποιείται για την απουσία:"
+  literals:
+    - -en
+cc49f9aa6bb97ed9332df7a13c2ef77291f90fced6b2a0300bbdaf7f:
+  original: no love
+  translated: καθόλου αγάπη
+39f60fba4b8a1c6c8a092711457c5c2aba2772aae5049c9ce5d63a69:
+  original: '"${-er}" suffix, used for the totality:'
+  translated: "«${-er}», χρησιμοποιείται για το σύνολο:"
+  literals:
+    - -er
+6d7a613ae881f5c996042d5c7627b9e1549517011c874b7488e18bff:
+  original: all the love
+  translated: όλη η αγάπη του κόσμου
