@@ -1,0 +1,65 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+7c8489dfd11d0c6f3eb00cc49dcc7d9ba4da8bfc0459219b0314404b:
+  original: Personal pronouns
+  translated: Προσωπικές αντωνυμίες
+a056fda11925fdba63424ae4a54ea2eb5eedc07dfb19d282521a034f:
+  original: In Zerita, only the first 3 persons have a personal pronoun.
+  translated: Στην ζερίτα, μόνο τα πρώτα 3 πρόσωπα έχουν προσωπική αντωνυμία.
+223f5312e74e29426e6d2ab4efd794dc61d4f93923b210b21f6c37e2:
+  original: |-
+    The 4th person is used for expressing all the objects or none of them,
+    therefore they are covered by the indefinite pronouns.
+  translated: |-
+    Το 4ο πρόσωπο χρησιμοποιείται για να εκφράσει όλα τα αντικείμενα ή κανένα από αυτά,
+    γι' αυτό καλύπτονται από τις αόριστες αντωνυμίες.
+6eb9dc5cfce7089d8d73951e8450b807d768279f6593ca69ab82e653:
+  original: Person
+  translated: Πρόσωπο
+0caf25890780cb1b748f923ae4ee941e446c3742d7fe46215a9d5496:
+  original: Pronoun
+  translated: Αντωνυμία
+a7bea49906f40d89717f0ae7e972f2bfa311d80dcb9fa91f20f192d7:
+  original: Full declension table
+  translated: Πλήρης κλίση
+285333db1c7aa43cd1c3a086105194924b6de32795503cdba2848c5b:
+  original: The personal pronouns follow the declension rules of the nouns.
+  translated: Οι προσωπικές αντωνυμίες ακολουθούν τους κανόνες κλίσης των ουσιαστικών.
+d00ee1c20b8ca2df3f7fdd01c7c0b222ea5db06e5e15d1e760962270:
+  original: 1st person
+  translated: 1ο πρόσωπο
+8f240a8fcf5b3f37db470bb7a946d891931566d1973f5d15ad47f951:
+  original: Case
+  translated: Πτώση
+840e1c0d88b6a87a4ecf8cde4b0562eabb6ea8a370e8c7948b5d5da8:
+  original: Number
+  translated: Αριθμός
+b4c0325d4826f9930172b399a3f907a1144689e5953080fd005ca3e5:
+  original: Singular
+  translated: Ενικός
+099ab05b2d5053955b98c8ead08c6b201803c8287cc8629af39a1e0f:
+  original: Plural
+  translated: Πληθυντικός
+6c5e800ea7de2abcf770cd08de35aa82f612171fa73616ce990ab500:
+  original: Plural (inc)
+  translated: Πληθυντικός (συμπ)
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+dec3f3f429384ba43f03b150c315968990684f5049aa935c9a3a19dc:
+  original: Thematic
+  translated: Θεματική
+ca4eebdc47e74d6f04472692e189d123c29476aa2becc08c21ca1c2e:
+  original: Absolutive
+  translated: Απόλυτη
+a7a29e0d1a4a6a26e671f23db2b1ec7090f1fe017104d587fdb53371:
+  original: Fractional
+  translated: Κλασματικός
