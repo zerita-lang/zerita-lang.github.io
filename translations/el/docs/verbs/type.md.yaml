@@ -1,0 +1,172 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+01f1e0d4d00ef2ad740b2b2f2205b02e5e23758a46b71ae54347a844:
+  original: Type
+  translated: Τύπος
+55160eec56c117d22aff33eb243a91331aac1d735a7ab06ca439eb52:
+  original:
+    Zerita has a rich type system for verbs, each one having it's own syntactic
+    rules.
+  translated:
+    Η ζερίτα έχει ένα πλούσιο σύστημα τύπων για ρήματα, καθένας από τους
+    οποίους έχει τους δικούς του συντακτικούς κανόνες.
+fa18756e1f6e0f8320af952464d5f27d2e9b0b1e0f530a902857d05c:
+  original: The syntax of each sentence stems from the verb and its type.
+  translated: Η σύνταξη κάθε πρότασης εξαρτάται από το ρήμα και τον τύπο του.
+de5833391886b4700d63f591dd0a48cd64435abad3c74b202e74c679:
+  original: The basic syntax is VSO.
+  translated: Η βασική σύνταξη είναι Ρήμα - Υποκείμενο - Αντικείμενο.
+95cce9d9e5bfd2b2acd3cfd6768ed94265e663ad2873966563116d4c:
+  original:
+    In cases that the sentence has a topic, it is placed directly after the
+    verb.
+  translated: |-
+    Σε περιπτώσεις όπου η πρόταση έχει θέμα (ουσιαστικό στην θεματική πτώση),
+    αυτό τοποθετείται αμέσως μετά το ρήμα.
+ba052b3d873a4b01d7d3dd37aa35eb7385fb5c0c5a9d64d23d4ed788:
+  original: Copular verbs
+  translated: Συνδετικά ρήματα
+12ae99d9abd7e27f85090f4f6fa9e1bdec521cf03e61e9bef9bd61ae:
+  original: |-
+    Copular verbs are verbs that don't have an action, but rather they describe an state
+    or a characteristic, for example "I am a doctor" or "The roses smell nice".
+  translated: |-
+    Τα συνδετικά ρήματα είναι ρήματα που δεν έχουν δράση, αλλά περιγράφουν μια κατάσταση
+    ή ένα κατηγορούμενο, για παράδειγμα «Είμαι γιατρός» ή «Τα τριαντάφυλλα μυρίζουν ωραία».
+2ef8cacd7b6d605835ccca5e8ac2348053f8ae43d40c12964457b8e8:
+  original:
+    Syntax in zerita is verb - subject - attribute, where the attribute is
+    in the absolutive case.
+  translated: |-
+    Τα συνδετικά ρήματα στη ζερίτα έχουν τη σύνταξη ρήμα - υποκείμενο - κατηγορούμενο,
+    όπου το κατηγορούμενο είναι στην απόλυτη πτώση.
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+4c57fa73a00aa6729adbcc839c9d84a408a014985dee953613a77523:
+  original: The roses smell sweet.
+  translated: Τα τριαντάφυλλα μυρίζουν γλυκά.
+5aee485badafb60daf7fed12344743dea20c66a0abd170b381fbff39:
+  original:
+    One important case in the copular verbs, is introducing oneself, as in
+    "I'm Jon Snow".
+  translated: |-
+    Μια σημαντική περίπτωση στα συνδετικά ρήματα είναι η αυτοπαρουσίαση,
+    όπως στο «Είμαι ο Jon Snow».
+94a90bc21c39b5c7cc9c9f6b1042a62bda7ac54473eb99c36d195809:
+  original: '"I" is the sentence''s topic, the "name" is the subject and "Jon
+    Snow" is the attribute.'
+  translated:
+    To «εγώ» είναι το θέμα της πρότασης, το «όνομα» είναι το υποκείμενο
+    και το «Jon Snow» είναι το κατηγορούμενο.
+612321473d2c35752171b4246a37d09a4a4f5f8a94499f54206bff34:
+  original: I'm Jon Snow.
+  translated: Είμαι ο Jon Snow.
+7e4e5494b34665cd460b5db5cd03165cddfaeca3a5b4fcc887cef01f:
+  original: literal translation
+  translated: μετάφραση κατά λέξη
+4514ada83df8429caa094dfdc0c6190174517d592d1ebdf4d2bd5812:
+  original: Talking about me, the name is Jon Snow.
+  translated: Μιλώντας για εμένα, το όνομα είναι Jon Snow.
+c3df7d1d377f09f0b5c8bef23fcf4869900a72410662aa3e0d94343f:
+  original: Global state verbs
+  translated: Ρήματα κατάστασης
+31af9b595a0fdbe20e9eb23b4f7e32131ebfbe715769ff4e21241500:
+  original:
+    Global state verbs are verbs that describe the state of the world, of
+    a place, or even a time period.
+  translated:
+    Τα ρήματα κατάστασης είναι ρήματα που περιγράφουν την κατάσταση του
+    κόσμου, ενός τόπου ή ακόμα και μιας χρονικής περιόδου.
+9bf51bb97ba26275c3c8c260ca2571aba00d439cdffb5915db9f5417:
+  original:
+    For example they describe things like "it snows", and they lack subject
+    and the personal suffix.
+  translated:
+    Για παράδειγμα, περιγράφουν πράγματα όπως «χιονίζει», και δεν έχουν
+    υποκείμενο και προσωπική κατάληξη.
+319844911be1f6ff2bc168c21c7e9e89b44d30944a207538f09249b0:
+  original: It is snowing.
+  translated: Χιονίζει.
+7a96654bc1cdca5ae280e2e8c63ebbd92b1b3197bc948ca3e10a9715:
+  original: Intransitive verbs
+  translated: Αμετάβατα ρήματα
+492fb95dc84accf4e1bca964f5d0f540fbbbcc6fb0b34b524d011eca:
+  original: |-
+    Intransitive verbs are verbs that describe an action without a recipient, for example "the birds are singing",
+    or, verbs that describe an state, "the cat is sleeping".
+  translated: |-
+    Τα αμετάβατα ρήματα είναι ρήματα που περιγράφουν μια δράση χωρίς παραλήπτη,
+    για παράδειγμα «τα πουλιά τραγουδούν», ή, ρήματα που περιγράφουν μια κατάσταση,
+    «η γάτα κοιμάται».
+36b5e66c5c3f97f0eadb777f17163de74f71ef35584d8d82a6152765:
+  original:
+    They follow the syntax verb - subject, and the subject is in the nominative
+    case.
+  translated:
+    Ακολουθούν τη σύνταξη ρήμα - υποκείμενο, και το υποκείμενο είναι στην
+    ονομαστική πτώση.
+33f10aeccdb66ed6c33e4e6d4c1020c00cc586ef703f92c497435c4e:
+  original: Birds are singing.
+  translated: Κάποια πουλιά τραγουδούν.
+72e6efcf16935db755e95210a1fc15c68ba15f1651b6efbab6e2a9c2:
+  original: Transitive verbs
+  translated: Μεταβατικά ρήματα
+cdb7c00e727a6dc43472006c56dc957e217c0d166b0c1e5401db043d:
+  original:
+    Transitive verbs are verbs that describe an action with a single recipient,
+    for example "I'm drinking water".
+  translated:
+    Τα μεταβατικά ρήματα είναι ρήματα που περιγράφουν μια δράση με έναν
+    παραλήπτη, για παράδειγμα «πίνω νερό».
+fcfe301c69d6e6c7dfd316e9e998f299bbc3a5881d963d0fc6885503:
+  original:
+    They follow the syntax verb - subject - object, the subject is in the
+    nominative case, and the object in the accusative.
+  translated:
+    Ακολουθούν τη σύνταξη ρήμα - υποκείμενο - αντικείμενο, το υποκείμενο
+    είναι στην ονομαστική πτώση και το αντικείμενο στην αιτιατική.
+16c1b62cd1d89cfc8c4040a53c9e9766a3f88a8b6da8d67a4e961739:
+  original:
+    The subject can be dropped, especially in the first, second, and fourth
+    person.
+  translated:
+    Το υποκείμενο μπορεί να παραλειφθεί, ειδικά στο πρώτο, δεύτερο και τέταρτο
+    πρόσωπο.
+e3b467bef0856ffa967a6ff5f39086080db1a76459623da24b292891:
+  original: I'm drinking water.
+  translated: Πίνω νερό.
+73bb612e17b097aa09be21e1874fbbb3df0b26f77f5e34f94ee8edcc:
+  original: Distransitive verbs
+  translated: Διπλά μεταβατικά ρήματα
+303400e02875541306decddf55c574c9cae56575d4a02551ef2676f5:
+  original:
+    Distransitive verbs are verbs that describe an action with two recipient,
+    for example "I'm giving the book to you".
+  translated:
+    Τα διπλά μεταβατικά ρήματα είναι ρήματα που περιγράφουν μια δράση με
+    δύο παραλήπτες, για παράδειγμα «δίνω το βιβλίο σε σένα».
+5431e156fb2659d78afd80e1ec837e32c75fc2c85583ad3208ef35c7:
+  original: |-
+    They follow the syntax verb - subject - direct object - indirect object, the subject is in the nominative case,
+    and the direct object in the accusative and the indirect one is in the dative case.
+  translated: |-
+    Ακολουθούν τη σύνταξη ρήμα - υποκείμενο -
+    άμεσο αντικείμενο - έμμεσο αντικείμενο, το υποκείμενο είναι στην ονομαστική πτώση,
+    το άμεσο αντικείμενο στην αιτιατική και το έμμεσο αντικείμενο στην δοτική πτώση.
+2e80e45d3262dae2808d8a4bc9cd7e25e17a95a8fba21a2e3208483f:
+  original: I am about to give the book to you.
+  translated: Θα δώσω άμεσα το βιβλίο σε εσένα.
+5c1c69029344a2ec9af0a4de77a663570b705cd52d2dd2036a035db7:
+  original: I am giving the book to the child.
+  translated: Δίνω το βιβλίο στο παιδί.
+7b0712e08ddd3ba7c390e709b877458b5dbbb0461517b3e173f4f883:
+  original: Reflexivity
+  translated: Αυτοπαθή και αντανακλαστικά ρήματα
+82f4f6c18c0a1681c381424c8c764faa5c7ec26d234643dbcc644315:
+  original: Zerita handles reflexivity and reciprocality using pronouns.
+  translated:
+    Η ζερίτα χειρίζεται την αυτοαναφορά και την αλληλοαναφορά χρησιμοποιώντας
+    αντωνυμίες.
