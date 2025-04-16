@@ -1,0 +1,43 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+f2cdd838db150cc9244f851773fa2157f656b656b65336c6e1919ef4:
+  original: Tense
+  translated: Χρόνος
+054caf0a3a3e382f186a4747d77c32543d280e469a0a6465d8d0f3bd:
+  original: Veritas
+  translated: Αληθινός
+e6f3d2e450559a5b9cae7d865c02fa941c8b273d6df940bf50a56707:
+  original: Zerita has a timeless tense, the veritas tense.
+  translated: Η ζεριτά έχει έναν διαχρονικό χρόνο, τον αληθινό χρόνο.
+64b6e8ead32ccc1cefafde093c279b47607d72022e534e6464cc923d:
+  original: |-
+    The veritas tense is used to describe a timeless truth, a scientific fact, or an unchanging state,
+    anything that is true within a specific context, regardless of past, present, or future.
+  translated: |-
+    Ο αληθινός χρόνος χρησιμοποιείται για να περιγράψει μια διαχρονική αλήθεια, ένα επιστημονικό γεγονός ή μια αμετάβλητη κατάσταση,
+    γενικότερα, οτιδήποτε είναι αληθινό μέσα σε ένα συγκεκριμένο πλαίσιο, ανεξάρτητα από το παρελθόν, το παρόν ή το μέλλον.
+9e2dd88ba8c3558a3329a242980142317deaa6b97f372aed88721c5d:
+  original: In the indicative mood, it's formed using the "${-ev}" suffix.
+  translated: Στην οριστική, σχηματίζεται χρησιμοποιώντας το επίθημα «${-ev}».
+  literals:
+    - -ev
+336a1d7c81c1e61500222c3685bdf1f3ec75896e1ec0295049e5da94:
+  original: Examples
+  translated: Παραδείγματα
+2562febdb312ac84f94fc2e33de317cb6e3984d3001e8d200547f259:
+  original: translation
+  translated: μετάφραση
+a42ccb9721ab4c4835e5b10b9f4f401ed6edc25d23633ef4eecf434b:
+  original: Water freezes at 0°C.
+  translated: Το νερό παγώνει στους 0°C.
+7c5aacb1e1e99d79cfdcc756b3f37628aec1339829e62a831b0bc689:
+  original: I always eat dessert after dinner.
+  translated: Πάντα τρώω επιδόρπιο μετά το δείπνο.
+08f93b25e9fec9e33224dcecde670fcca045cba49b0c8b39f30da3b9:
+  original: Timed tenses
+  translated: Χρόνοι με χρονική αναφορά
+49538c6fffa6fa72d539a3855bbb064fc7d96a5efe7d21ebafcdde4d:
+  original: "There are 3 timed tenses, and their suffixes are:"
+  translated: "Υπάρχουν 3 χρόνοι με χρονική αναφορά, και τα επιθήματά τους είναι:"
