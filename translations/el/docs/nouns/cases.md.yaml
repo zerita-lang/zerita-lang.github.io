@@ -1,0 +1,64 @@
+%YAML 1.2
+%TAG !default! False
+%TAG !language! el
+---
+2bb9f40092ef7e794d622921e130c90585f25bc17f86d13aa383751b:
+  original: Cases
+  translated: Πτώσεις
+4c5592843a68c95cb3d9b0f12ead4299157522ce5002e7afac321930:
+  original:
+    Zerita has 5 cases, again signified by a suffix. We will use "${ros}",
+    which means "rose".
+  translated:
+    Η ζερίτα έχει 5 πτώσεις, που πάλι δηλώνονται με επιθήματα. Θα χρησιμοποιήσουμε
+    το «${ros}», που σημαίνει «τριαντάφυλλο».
+  literals:
+    - ros
+78ad3ffd3af270e9936dc171646ba7c64e5f74c53d8fed63f93804da:
+  original: Nominative
+  translated: Ονομαστική
+2850ac7e8ae996096bbc249a14a6a907d41fc0b27c624164359fc046:
+  original: '"${-is}" suffix, used subject of the sentence:'
+  translated:
+    "επίθημα «${-is}», χρησιμοποιείται για να δηλώσει το υποκείμενο της
+    πρότασης:"
+  literals:
+    - -is
+a00f7bfc994955144955ef80d6ae7e8d7d12dc931c437bc93edcfd9f:
+  original: Accusative
+  translated: Αιτιατική
+6b7bf574edeee6a27905f2c8e0c7c926ffc53e9e4c0a46eac469c3cd:
+  original: '"${-on}" suffix, used for the direct object of the sentence:'
+  translated:
+    "επίθημα «${-on}», χρησιμοποιείται για να δηλώσει το άμεσο αντικείμενο
+    της πρότασης:"
+  literals:
+    - -on
+31e3de91334f5d65fbbcdc2f49fb8099aa7d6de22494786b7a0c6164:
+  original: Dative
+  translated: Δοτική
+a5488601e0165a9e3afc9f12851f22608338cec4b0eadadd8ec764d2:
+  original: '"${-im}" suffix, used for the indirect object of the sentence:'
+  translated:
+    "επίθημα «${-im}», χρησιμοποιείται για να δηλώσει το έμμεσο αντικείμενο
+    της πρότασης:"
+  literals:
+    - -im
+dec3f3f429384ba43f03b150c315968990684f5049aa935c9a3a19dc:
+  original: Thematic
+  translated: Θεματική
+e4d9db57bf54b0692c090a5a9735e606bd22a6c85fc111c0d6b7a42a:
+  original: '"${-i}" suffix, used for the topic of the sentence:'
+  translated: "επίθημα «${-i}», χρησιμοποιείται για να δηλώσει το θέμα της πρότασης:"
+  literals:
+    - -i
+ca4eebdc47e74d6f04472692e189d123c29476aa2becc08c21ca1c2e:
+  original: Absolutive
+  translated: Απόλυτη
+0792789a95625316ee1f9c2bc83132b2fc7297f5334cac86fbb0a8c8:
+  original: '"${-e}" suffix, used after a preposition, or to address someone:'
+  translated:
+    "επίθημα «${-e}», χρησιμοποιείται μετά από προθέσεις και για να απευθυνθείς
+    σε κάποιον:"
+  literals:
+    - -e
